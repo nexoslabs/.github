@@ -70,13 +70,9 @@
 | :---: | :--- | --- | :--- | :--- |
 
 | <a href="https://www.nexoscreation.com"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/vue.svg" height="13px" /></a> | [ Nexos Creation Website ](https://github.com/nexoscreation/.github) | [`#www.nexoscreation.com`](https://www.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/.github?style=flat)](https://github.com/nexoscreation/.github/stargazers) | - 
-
 | <a href="https://www.nexoscreation.com"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/surmon.me.svg" height="13px" /></a> | [ TermuXpert ](https://github.com/nexoscreation/TermuXpert) | [`#TermuXpert`](https://github.com/nexoscreation/TermuXpert) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/TermuXpert?style=flat)](https://github.com/nexoscreation/TermuXpert/stargazers) | -
-
-| <a href="https://www.nexoscreation.com"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/surmon.me.svg" height="13px" /></a> | [ Thumbline Generator ](https://github.com/nexoscreation/thumbline-generator) | [`#Thumbnail Generator`](https://github.com/nexoscreation/thumbline-generator) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/thumbline-generator?style=flat)](https://github.com/nexoscreation/thumbline-generator/stargazers) | -
-
-| <a href="https://www.nexoscreation.com#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://www.nexoscreation.com#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscreation/Free-Fire-Max-Craftland-Old-Peak) | [`#craftland`](https://www.nexoscreation.com/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/Free-Fire-Max-Craftland-Old-Peak?style=flat)](https://github.com/nexoscreation/Free-Fire-Max-Craftland-Old-Peak/stargazers) | - 
-
+| <a href="https://www.nexoscreation.com"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/vue.svg" height="13px" /></a> | [ Thumbline Generator ](https://github.com/nexoscreation/thumbline-generator) | [`#Thumbnail Generator`](https://github.com/nexoscreation/thumbline-generator) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/thumbline-generator?style=flat)](https://github.com/nexoscreation/thumbline-generator/stargazers) | -
+| <a href="https://www.nexoscreation.com#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://www.nexoscreation.com#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/github.light.svg" height="16px" /></a> | [ Nexos Creation ](https://github.com/nexoscreation/.github) | [`#profile`](https://www.nexoscreation.com/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/.github?style=flat)](https://github.com/nexoscreation/.github/stargazers) | - 
 | - | - | - | - | - 
 
 #
