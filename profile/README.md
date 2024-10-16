@@ -29,13 +29,13 @@
 
 <p align="center">
   <a href="#"><img
-    alt="total Craftland Stars"
-    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscreation/.github/release/shields.craftland.stars.json"
+    alt="total Project Stars"
+    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscreation/.github/release/shields.projects.stars.json"
   /></a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://www.npmjs.com/~surmon"><img
-    alt="total Craftland Likes"
-    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscreation/.github/release/shields.craftland.likes.json"
+  <a href="#"><img
+    alt="total Project Likes"
+    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscreation/.github/release/shields.projects.likes.json"
   /></a>
 </p>
 <p align="center">
@@ -43,12 +43,6 @@
     alt="blog"
     height="22px"
     src="https://img.shields.io/badge/BLOG-0088f5?style=for-the-badge&logoWidth=14&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAyCAYAAADcD8w1AAADX0lEQVR42u3aA4xcXxTH8TX+tm3b/ge1bUa1ba9tezfcoLYZ1LZt6/TUJ8mZ6Z3Ze96707xf8g370M9y5q0fADhZkIOgmgPtQH+EPWnDf+p7bDSpH/anwnHB2Ge+Bj0K7m4t9pLF0IuAXxs3xzyHLYO7K8QCfQF6NEa3xkLsH4DfVewtN8grMLpi3djSyBT7SQugC4BfhYt/H4AtBn4lOrHFkcl+EUZ+FbsM/P5wccybQCeIbRVyBuYvDD0S+K16xHGRwE/rt5HHBTkEOwj82iocHyONLY2cSZAlaw38DmGhiueIlcSWRM4iyNKtBH6jPTxPnBS2JHKARci/A78r2GtenC9eAlsCOVsSmakc+BV5eT5/CWzdyDkWI7+FXQV+P7PHqGMn6MSWRZZvAvBbonCsCnaiLmxdyLk2IIdjx4Bfc8zPJGwdyHnyyGydgd8+LBjz04idVFVseWS51gC/oQLX8seSq4JdFeR8G5H/B36XBN8p9MdSvMX2FrnADmRSpeufFfwxdmP7IvL72HXg963gdSl2qqfY6sjqTx+kiwF+88WuyWOneYLtCXKRAchPYaeAXyPMz0RsCt1E9QCb6wr8dtl0f/5YOrhfHwrdHtwvxgBkf2wT8BsgdV0NrzOGU2h/LAPcL9pm6BrA7zz2vKHI07EwCu0L2FOBX7pN9zNGFZlCU+xMA7E/xW4y93IT+8KG+xmrjkyhzcdOAX4zbUAep47MQ9MCsCxDsJ/FzgG/OiYj89A8drYB2H2B3zaLX6GOV0fmoU3GDsR2AL9e9j9gYJHVoRnsHJuw6wO/s9gzFiFP9AqZgTYZew7wSzIOWQM0xc618BXk1y5+pbuBfWIB8iR1ZH3QFDvPIuxs4DfFAuQIXcgU2kTsF7GLwK+6ccgC0BQ7XxB7CPDbKPxnZpECyATaLOwgbB/w6yqIHKWOLA/NYRdoxm4G/E5hTwkhR0siU2gxbC9+9Vsi9UNW4LcL5XS+gisEOu8enP4E/K5j7wsgv47dlEam0NLY+xXfnC8CfpVCn83B2DoZZAFois1gHcA+VTj2NewK8Ptf8IfgG9hmSWQKLYXNI/M1An5rpZApNnkeOVUbMknyQepf2Mse/lBthSVj87Bj2GkL33MOx36mb73aDO3kQDvQTrcADbUY5HnAMV0AAAAASUVORK5CYII="
-  /></a>
-  <span>&nbsp;</span>
-  <a href="https://www.instagram.com/nexoscreator"><img
-    alt="Instagram"
-    height="22px"
-    src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
   <a href="https://x.com/nexoscreator"><img
@@ -74,8 +68,15 @@
 
 | 🔥 | project | homepage | stars | downloads
 | :---: | :--- | --- | :--- | :--- |
-| <a href="https://www.nexoscreation.com"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/vue.svg" height="13px" /></a> | [ Nexos Creation Website ](https://github.com/nexoscreation/www.nexoscreation.com) | [`#www.nexoscreation.com`](https://www.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/nexoscreation?style=flat)](https://github.com/nexoscreation/nexoscreation/stargazers) | - 
+
+| <a href="https://www.nexoscreation.com"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/vue.svg" height="13px" /></a> | [ Nexos Creation Website ](https://github.com/nexoscreation/.github) | [`#www.nexoscreation.com`](https://www.nexoscreation.com) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/.github?style=flat)](https://github.com/nexoscreation/.github/stargazers) | - 
+
+| <a href="https://www.nexoscreation.com"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/surmon.me.svg" height="13px" /></a> | [ TermuXpert ](https://github.com/nexoscreation/TermuXpert) | [`#TermuXpert`](https://github.com/nexoscreation/TermuXpert) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/TermuXpert?style=flat)](https://github.com/nexoscreation/TermuXpert/stargazers) | -
+
+| <a href="https://www.nexoscreation.com"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/surmon.me.svg" height="13px" /></a> | [ Thumbline Generator ](https://github.com/nexoscreation/thumbline-generator) | [`#Thumbnail Generator`](https://github.com/nexoscreation/thumbline-generator) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/thumbline-generator?style=flat)](https://github.com/nexoscreation/thumbline-generator/stargazers) | -
+
 | <a href="https://www.nexoscreation.com#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/github.dark.svg" height="16px" /></a><a href="https://www.nexoscreation.com#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/icons/github.light.svg" height="16px" /></a> | [ FF Max Od Peak Map ](https://github.com/nexoscreation/Free-Fire-Max-Craftland-Old-Peak) | [`#craftland`](https://www.nexoscreation.com/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/Free-Fire-Max-Craftland-Old-Peak?style=flat)](https://github.com/nexoscreation/Free-Fire-Max-Craftland-Old-Peak/stargazers) | - 
+
 | - | - | - | - | - 
 
 #

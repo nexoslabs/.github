@@ -5,7 +5,7 @@ import path from 'path';
 const __filename = new URL(import.meta.url).pathname;
 const __dirname = path.dirname(__filename);
 
-const CRAFTLAND_DATA_FILE = path.join(__dirname, './../data/craftland.json');
+const CRAFTLAND_DATA_FILE = path.join(__dirname, './../data/projects.json');
 
 import { CONFIG, GITHUB_ACCESS_TOKEN } from './constants.js'
 import {
@@ -17,9 +17,8 @@ import {
   fetchGitHubRepositoryLanguages
 } from './fetchers.js'
 
-// Craftland
-// Craftland
-export const getCraftlandAggregate = async () => {
+// Projects
+export const getProjectsAggregate = async () => {
   try {
     // Read and parse the local JSON file
     const data = JSON.parse(fs.readFileSync(CRAFTLAND_DATA_FILE, 'utf8'));
@@ -30,7 +29,7 @@ export const getCraftlandAggregate = async () => {
       likesTotal: data.totalLikes || 0
     };
   } catch (error) {
-    console.error('Error reading Craftland data file:', error);
+    console.error('Error reading Projects data file:', error);
     return {
       starsTotal: 0,
       likesTotal: 0

@@ -1,5 +1,5 @@
 import { thousands, writeJSONToOutput } from './utils.js'
-import { getCraftlandAggregate } from './aggregates.js'
+import { getProjectsAggregate } from './aggregates.js'
 
 try {
   const now = new Date();
@@ -7,23 +7,23 @@ try {
   console.log();
 
   // Aggregates
-  const craftlandData = await getCraftlandAggregate();
+  const ProjectData = await getProjectsAggregate();
 
-  // Craftland JSON
-  writeJSONToOutput('craftland.json', { ...craftlandData });
+  // Project JSON
+  writeJSONToOutput('project.json', { ...ProjectData });
 
   // shields JSON
-  writeJSONToOutput('shields.craftland.likes.json', {
+  writeJSONToOutput('shields.project.likes.json', {
     schemaVersion: 1,
-    label: 'Craftland Likes',
-    message: thousands(craftlandData.likesTotal), // Craftland likes
+    label: 'Project Activity',
+    message: thousands(ProjectData.likesTotal), // Project likes
     cacheSeconds: 3600
   });
 
-  writeJSONToOutput('shields.craftland.stars.json', {
+  writeJSONToOutput('shields.project.stars.json', {
     schemaVersion: 1,
-    label: 'Craftland Stars',
-    message: thousands(craftlandData.starsTotal), // Craftland stars
+    label: 'Project Stars',
+    message: thousands(ProjectData.starsTotal), // Project stars
     cacheSeconds: 3600
   });
 
