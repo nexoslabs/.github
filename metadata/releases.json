@@ -1,0 +1,20 @@
+[
+    {
+      "version": "v0.9.0",
+      "date": "2024-11-24",
+      "artifacts": {
+        "apk": "releases/v0.9.0/app-release.apk",
+        "proguard": "releases/v0.9.0/app-proguard.txt"
+      },
+      "changelog": "Initial release with core features."
+    },
+    {
+      "version": "v1.1.0",
+      "date": "2025-01-15",
+      "artifacts": {
+        "apk": "releases/v1.1.0/app-release.apk"
+      },
+      "changelog": "Added dark mode and performance improvements."
+    }
+  ]
+  
