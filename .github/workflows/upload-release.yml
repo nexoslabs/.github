@@ -3,7 +3,7 @@ name: Release Workflow
 on:
   push:
     tags:
-      - 'v*.*.*' # Trigger only on version tags like v1.0.0
+      - 'v*.*.*' # Trigger only on semantic version tags like v1.0.0
 
 jobs:
   upload-release:
@@ -14,36 +14,56 @@ jobs:
     # 1. Checkout the Repository
     - name: Checkout Repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0 # Ensures all tags are fetched for proper version reference
 
-    # 2. Prepare Release Assets
-    # Assumes the release assets are already in the `releases/<version>/` directory
+    # 2. Validate Tag Format
+    - name: Validate Version Tag
+      run: |
+        if [[ ! "${{ github.ref_name }}" =~ ^v[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+          echo "Invalid version tag format: ${{ github.ref_name }}. Must match vX.X.X."
+          exit 1
+        fi
+
+    # 3. Prepare Release Files
     - name: Prepare Release Files
       run: |
         echo "Preparing release files for ${{ github.ref_name }}"
-        ls -lh releases/${{ github.ref_name }}
+        ls -lh "releases/${{ github.ref_name }}"
+        if [ ! -f "releases/${{ github.ref_name }}/app-release.apk" ]; then
+          echo "Error: app-release.apk not found in releases/${{ github.ref_name }}/"
+          exit 1
+        fi
+        if [ ! -f "releases/${{ github.ref_name }}/changelog.md" ]; then
+          echo "Warning: changelog.md not found in releases/${{ github.ref_name }}/"
+        fi
 
-    # 3. Create GitHub Release
+    # 4. Create GitHub Release
     - name: Create GitHub Release
       id: create_release
       uses: actions/create-release@v1.1.0
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the default GitHub token
       with:
         tag_name: ${{ github.ref_name }}
         release_name: "Release ${{ github.ref_name }}"
         body: |
           ## What's New in ${{ github.ref_name }}
-          $(cat releases/${{ github.ref_name }}/changelog.md)
+          $(cat releases/${{ github.ref_name }}/changelog.md || echo "No changelog available.")
         draft: false
         prerelease: false
 
-    # 4. Upload Release Artifacts
+    # 5. Upload Release Artifacts
     - name: Upload APK to Release
       uses: actions/upload-release-asset@v1
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the default GitHub token
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: releases/${{ github.ref_name }}/app-release.apk
         asset_name: app-release.apk
         asset_content_type: application/vnd.android.package-archive
+
+    # 6. Notify Success (Optional)
+    - name: Post Success Message
+      run: echo "Release ${{ github.ref_name }} successfully created and artifacts uploaded!"

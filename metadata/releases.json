@@ -15,5 +15,13 @@
         "apk": "releases/v0.9.0/app-release.apk"
       },
       "changelog": "Added dark mode and performance improvements."
-    }
+    },
+    {
+        "version": "v0.15.0",
+        "date": "2024-11-26",
+        "artifacts": {
+          "apk": "releases/v0.15.0/app-release.apk"
+        },
+        "changelog": "Improvment UI/UX."
+      }
   ]
