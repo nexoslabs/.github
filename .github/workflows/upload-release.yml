@@ -43,7 +43,7 @@ jobs:
       id: create_release
       uses: actions/create-release@v1.1.0
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the default GitHub token
+        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }} # Use the default GitHub token
       with:
         tag_name: ${{ github.ref_name }}
         release_name: "Release ${{ github.ref_name }}"
@@ -57,7 +57,7 @@ jobs:
     - name: Upload APK to Release
       uses: actions/upload-release-asset@v1
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the default GitHub token
+        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }} # Use the default GitHub token
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: releases/${{ github.ref_name }}/app-release.apk
