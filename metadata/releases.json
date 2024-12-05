@@ -1,27 +1,35 @@
 [
-    {
-      "version": "v0.8.1",
-      "date": "2024-11-23",
-      "artifacts": {
-        "apk": "releases/v0.8.1/app-release.apk",
-        "proguard": "releases/v0.8.1/app-proguard.txt"
-      },
-      "changelog": "Initial release with core features."
+  {
+    "version": "v0.8.1",
+    "date": "2024-11-23",
+    "artifacts": {
+      "apk": "releases/v0.8.1/app-release.apk",
+      "proguard": "releases/v0.8.1/app-proguard.txt"
     },
-    {
-      "version": "v0.9.0",
-      "date": "2024-11-24",
-      "artifacts": {
-        "apk": "releases/v0.9.0/app-release.apk"
-      },
-      "changelog": "Added dark mode and performance improvements."
+    "changelog": "Initial release with core features."
+  },
+  {
+    "version": "v0.9.0",
+    "date": "2024-11-24",
+    "artifacts": {
+      "apk": "releases/v0.9.0/app-release.apk"
     },
-    {
-        "version": "v0.15.0",
-        "date": "2024-11-26",
-        "artifacts": {
-          "apk": "releases/v0.15.0/app-release.apk"
-        },
-        "changelog": "Improvment UI/UX."
-      }
-  ]
+    "changelog": "Added dark mode and performance improvements."
+  },
+  {
+    "version": "v0.15.0",
+    "date": "2024-11-26",
+    "artifacts": {
+      "apk": "releases/v0.15.0/app-release.apk"
+    },
+    "changelog": "Improvment UI/UX."
+  },
+  {
+    "version": "v0.17.2",
+    "date": "2024-12-05",
+    "artifacts": {
+      "apk": "releases/v0.17.2/app-release.apk"
+    },
+    "changelog": "releases/v0.17.2/changelog.md"
+  }
+]
