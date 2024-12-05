@@ -23,7 +23,7 @@ We believe in the power of collaboration and open source. Here's how you can get
 - 🌟 Star our repositories
 - 🐛 Report issues and suggest features
 - 🔧 Contribute code or documentation
-- 💬 Join our [Discord community](https://discord.gg/nexoscreation)
+- 💬 Join our [Discord community](https://discord.com/invite/A3euTAVqHv)
 
 ## 📚 Resources
 
@@ -33,15 +33,14 @@ We believe in the power of collaboration and open source. Here's how you can get
 
 ## 📣 Stay Connected
 
-- [Twitter](https://twitter.com/NexosCreation)
-- [LinkedIn](https://www.linkedin.com/company/nexos-creation)
-- [Blog](https://blog.nexoscreation.com)
+- [Twitter](https://twitter.com/nexoscreator)
+- [Blog](https://blog.nexoscreator.tech)
 
 ## 🎉 Support Us
 
 If you find our projects helpful, consider supporting us:
 
-- ☕ [Buy us a coffee](https://buymeacoffee.com/nexoscreation)
+- ☕ [Via Paypal](https://paypal.me/nexoscreator)
 - 💖 [Become a sponsor](https://github.com/sponsors/nexoscreation)
 
 ---
