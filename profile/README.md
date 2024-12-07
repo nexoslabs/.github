@@ -30,12 +30,12 @@
 <p align="center">
   <a href="#"><img
     alt="total Project Stars"
-    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscreation/.github/release/shields.projects.stars.json"
+    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscreation/.github/refs/heads/release/shields.project.stars.json"
   /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="#"><img
     alt="total Project Likes"
-    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscreation/.github/release/shields.projects.likes.json"
+    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscreation/.github/refs/heads/release/shields.project.likes.json"
   /></a>
 </p>
 <p align="center">
