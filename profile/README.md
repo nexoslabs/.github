@@ -35,7 +35,7 @@
   <span>&nbsp;&nbsp;</span>
   <a href="#"><img
     alt="total Project Likes"
-    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscreation/.github/refs/heads/release/shields.project.likes.json"
+    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/nexoscreation/.github/refs/heads/release/shields.project.stars.json"
   /></a>
 </p>
 <p align="center">
@@ -68,14 +68,19 @@
 
 | 🔥 | project | homepage | stars | downloads
 | :---: | :--- | --- | :--- | :--- |
-| <a href="https://www.nexoscreation.tech"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/profile/icons/vue.svg" height="13px" /></a> | [ Nexos Creation Website ](https://github.com/nexoscreation/.github) | [`#www.nexoscreation.tech`](https://www.nexoscreation.tech) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/.github?style=flat)](https://github.com/nexoscreation/.github/stargazers) | - 
+| <a href="https://www.nexoscreation.tech#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/profile/icons/github.dark.svg" height="16px" /></a><a href="https://www.nexoscreation.tech#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/profile/icons/github.light.svg" height="16px" /></a> | [ Nexos Creation ](https://github.com/nexoscreation/.github) | [`#profile`](https://www.nexoscreation.tech/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/.github?style=flat)](https://github.com/nexoscreation/.github/stargazers) | - 
 | <a href="https://www.nexoscreation.tech"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/profile/icons/surmon.me.svg" height="13px" /></a> | [ TermuXpert ](https://github.com/nexoscreation/TermuXpert) | [`#TermuXpert`](https://github.com/nexoscreation/TermuXpert) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/TermuXpert?style=flat)](https://github.com/nexoscreation/TermuXpert/stargazers) | - 
 | <a href="https://www.nexoscreation.tech"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/profile/icons/vue.svg" height="13px" /></a> | [ Bot Discord Starter ](https://github.com/nexoscreation/discord-bot-template) | [`#bot-discord-starter`](https://www.nexoscreation.tech) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/discord-bot-template?style=flat)](https://github.com/nexoscreation/discord-bot-template/stargazers) | - 
 | <a href="https://www.nexoscreation.tech"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/profile/icons/vue.svg" height="13px" /></a> | [ Featurastic Auth UI Kit ](https://github.com/nexoscreation/featurastic-auth-kit) | [`#featurastic-auth-kit`](https://github.com/nexoscreation/featurastic-auth-kit) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/featurastic-auth-kit?style=flat)](https://github.com/nexoscreation/featurastic-auth-kit/stargazers) | - 
 | <a href="https://www.nexoscreation.tech"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/profile/icons/vue.svg" height="13px" /></a> | [ Featurastic Music Page ](https://github.com/nexoscreation/featurastic-music-page) | [`#featurastic-music-page`](https://github.com/nexoscreation/featurastic-music-page) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/featurastic-music-page?style=flat)](https://github.com/nexoscreation/featurastic-music-page/stargazers) | - 
 | <a href="https://www.nexoscreation.tech"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/profile/icons/vue.svg" height="13px" /></a> | [ Thumbline Generator ](https://github.com/nexoscreation/thumbline-generator) | [`#Thumbnail Generator`](https://github.com/nexoscreation/thumbline-generator) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/thumbline-generator?style=flat)](https://github.com/nexoscreation/thumbline-generator/stargazers) | - 
-| <a href="https://www.nexoscreation.tech#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/profile/icons/github.dark.svg" height="16px" /></a><a href="https://www.nexoscreation.tech#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/profile/icons/github.light.svg" height="16px" /></a> | [ Nexos Creation ](https://github.com/nexoscreation/.github) | [`#profile`](https://www.nexoscreation.tech/projects/) | [![GitHub stars](https://img.shields.io/github/stars/nexoscreation/.github?style=flat)](https://github.com/nexoscreation/.github/stargazers) | - 
 | - | - | - | - | - 
+
+
+| 🔥 | website | homepage | views | link
+| :---: | :--- | --- | :--- | :--- |
+| <a href="https://www.nexoscreation.tech"><img src="https://cdn.jsdelivr.net/gh/nexoscreation/.github@main/profile/icons/vue.svg" height="13px" /></a> | [ Nexos Creation Website ](https://github.com/nexoscreation/.github) | [`#www.nexoscreation.tech`](https://www.nexoscreation.tech) | [![Website Views](https://img.shields.io/github/stars/nexoscreation/.github?style=flat)](https://github.com/nexoscreation/.github/stargazers) | - 
+| - | - | - | - | -
 
 #
 
