@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "type": "module",
   "config": {
-    "GITHUB_UID": "nexoscreation",
+    "GITHUB_UID": "nexoscreator",
     "NPM_UID": "nexoscreation"
   },
   "nodemonConfig": {

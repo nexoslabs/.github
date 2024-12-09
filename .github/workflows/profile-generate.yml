@@ -1,4 +1,4 @@
-name: Generate
+name: Profile Generate
 
 on:
   push:

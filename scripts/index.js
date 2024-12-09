@@ -1,36 +1,49 @@
-import { thousands, writeJSONToOutput } from './utils.js'
-import { getProjectsAggregate } from './aggregates.js'
+import { thousands, writeJSONToOutput } from './utils.js';
+import { getGitHubAggregate, getNPMAggregate } from './aggregates.js';
 
-try {
-    const now = new Date();
-    console.info('Generating:', now.toLocaleString(), '|', now.toString());
-    console.log();
+async function generateReports() {
+    try {
+        const now = new Date();
+        console.info('Starting generation:', now.toLocaleString());
 
-    // Aggregates
-    const ProjectData = await getProjectsAggregate();
+        // Fetch aggregates
+        console.info('Fetching GitHub and npm aggregates...');
+        const [GitHubData] = await Promise.all([    // , NPMData
+            getGitHubAggregate(),
+            // getNPMAggregate()
+        ]);
 
-    // Project JSON
-    writeJSONToOutput('project.json', { ...ProjectData });
+        // Save Project Data
+        const projectData = { GitHub: GitHubData };  // , npm: NPMData
+        writeJSONToOutput('project.json', projectData);
 
-    // shields JSON
-    writeJSONToOutput('shields.project.likes.json', {
-        schemaVersion: 1,
-        label: 'Project Activity',
-        message: thousands(ProjectData.likesTotal), // Project Count
-        cacheSeconds: 3600
-    });
+        // Shields.io JSON files
+        writeJSONToOutput('shields.project.repos.json', {
+            schemaVersion: 1,
+            label: 'GitHub Repos',
+            message: thousands(GitHubData.repositories.length),
+            cacheSeconds: 3600
+        });
 
-    writeJSONToOutput('shields.project.stars.json', {
-        schemaVersion: 1,
-        label: 'Project Stars',
-        message: thousands(ProjectData.starsTotal), // Project stars
-        cacheSeconds: 3600
-    });
+        writeJSONToOutput('shields.project.stars.json', {
+            schemaVersion: 1,
+            label: 'GitHub Stars',
+            message: thousands(GitHubData.statistics.stars),
+            cacheSeconds: 3600
+        });
 
-    console.log();
-    console.info('All generation has been completed.');
-    process.exit(0);
-} catch (error) {
-    console.error('Generate JSON error!', error);
-    process.exit(1);
+        // writeJSONToOutput('shields.npm.downloads.json', {
+        //     schemaVersion: 1,
+        //     label: 'npm Downloads',
+        //     message: thousands(NPMData.packageDownloadsTotal),
+        //     cacheSeconds: 3600
+        // });
+
+        console.info('Report generation completed successfully.');
+    } catch (error) {
+        console.error('Error during report generation:', error.message);
+        process.exit(1);
+    }
 }
+
+generateReports();

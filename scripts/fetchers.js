@@ -1,106 +1,80 @@
-import axios from 'axios'
+import axios from 'axios';
 
+// Axios interceptor for logging errors
 axios.interceptors.response.use(
-  (response) => response,
-  (error) => {
-    console.error('Fetch failed:', error.toJSON())
-    return Promise.reject(error)
-  }
-)
+    (response) => response,
+    (error) => {
+        console.error('Fetch failed:', error.message);
+        return Promise.reject(error);
+    }
+);
 
-const CRAFTLAND_API_URL = 'https://www.nexoscreation.com/api/maps/1'; // Replace with actual API URL
+// Retry logic for API requests
+const fetchWithRetry = async (url, options = {}, retries = 3) => {
+    for (let i = 0; i < retries; i++) {
+        try {
+            const response = await axios({ url, ...options });
+            return response.data;
+        } catch (error) {
+            if (i === retries - 1) throw error; // Re-throw error on final attempt
+            console.warn(`Retrying ${url} (${i + 1}/${retries})...`);
+        }
+    }
+};
 
-export async function getCraftlandAggregate() {
-  try {
-    const response = await axios.get(CRAFTLAND_API_URL);
-    const data = response.data;
-
-    // Assuming the API returns an object with 'stars' and 'likes' fields
-    return {
-      starsTotal: data.totalStars || 0,
-      likesTotal: data.totalLikes || 0
-    };
-  } catch (error) {
-    console.error('Error fetching Craftland data:', error);
-    return {
-      starsTotal: 0,
-      likesTotal: 0
-    };
-  }
-}
-
-
-// https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
+// Fetch npm packages
 export const fetchNPMPackages = async (npmUID) => {
-  const response = await axios.get(`https://registry.npmjs.com/-/v1/search?text=maintainer:${npmUID}`)
-  return response.data.objects
-}
+    return fetchWithRetry(`https://registry.npmjs.com/-/v1/search?text=maintainer:${npmUID}`);
+};
 
-// https://github.com/npm/registry/blob/master/docs/download-counts.md
+// Fetch npm package downloads
 export const fetchNPMPackageDownloads = async (packageName) => {
-  const now = new Date()
-  const today = `${now.getFullYear()}-${now.getMonth() + 1}-${now.getDate()}`
-  const response = await axios.get(`https://api.npmjs.org/downloads/point/2015-01-10:${today}/${packageName}`)
-  return response.data
-}
+    const now = new Date();
+    const today = `${now.getFullYear()}-${now.getMonth() + 1}-${now.getDate()}`;
+    return fetchWithRetry(`https://api.npmjs.org/downloads/point/2015-01-10:${today}/${packageName}`);
+};
 
+// Fetch GitHub user info
 export const fetchGitHubUserinfo = async (githubUID) => {
-  const response = await axios.get(`https://api.github.com/users/${githubUID}`)
-  return response.data
-}
+    return fetchWithRetry(`https://api.github.com/users/${githubUID}`);
+};
 
+// Fetch GitHub repositories
 export const fetchGitHubRepositories = async (githubUID) => {
-  const response = await axios.get(`https://api.github.com/users/${githubUID}/repos?per_page=1000`)
-  return response.data
-}
+    return fetchWithRetry(`https://api.github.com/users/${githubUID}/repos?per_page=100`);
+};
 
+// Fetch GitHub organizations
 export const fetchGitHubOrganizations = async (githubUID) => {
-  const response = await axios.get(`https://api.github.com/users/${githubUID}/orgs`)
-  return response.data
-}
+    return fetchWithRetry(`https://api.github.com/users/${githubUID}/orgs`);
+};
 
-// https://docs.github.com/en/graphql/overview/explorer
-// https://docs.github.com/en/graphql/reference/objects#user
+// Fetch repository languages via GitHub GraphQL
 export const fetchGitHubRepositoryLanguages = async (githubUID, githubToken) => {
-  const query = `
+    const query = `
     query {
       user(login: "${githubUID}") {
-        repositories(
-          first: 100
-          isFork: false
-          ownerAffiliations: OWNER
-          orderBy: {field: CREATED_AT, direction: DESC}
-        ) {
+        repositories(first: 100, isFork: false, ownerAffiliations: OWNER) {
           nodes {
             name
             languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
               edges {
                 size
-                node {
-                  name
-                  color
-                }
+                node { name, color }
               }
             }
           }
         }
       }
+    }`;
+
+    const response = await axios.post('https://api.github.com/graphql', { query }, {
+        headers: { Authorization: `Bearer ${githubToken}` }
+    });
+
+    if (response.data.errors) {
+        throw new Error(response.data.errors.map(e => e.message).join('; '));
     }
-  `
 
-  const response = await axios({
-    url: 'https://api.github.com/graphql',
-    method: 'post',
-    data: { query },
-    headers: {
-      Authorization: `Bearer ${githubToken}`
-    }
-  })
-
-  if (response.data.errors) {
-    console.error(response.data.errors)
-    throw new Error(response.data.errors.map((error) => error.message).join('; '))
-  }
-
-  return response.data.data.user.repositories.nodes
-}
+    return response.data.data.user.repositories.nodes;
+};
