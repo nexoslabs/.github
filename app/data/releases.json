@@ -1,29 +1,5 @@
 [
   {
-    "version": "v0.15.0",
-    "date": "2024-11-26",
-    "artifacts": {
-      "apk": "app/releases/v0.15.0/app-release.apk"
-    },
-    "changelog": "Improvment UI/UX."
-  },
-  {
-    "version": "v0.17.2",
-    "date": "2024-12-05",
-    "artifacts": {
-      "apk": "app/releases/v0.17.2/app-release.apk"
-    },
-    "changelog": "app/releases/v0.17.2/changelog.md"
-  },
-  {
-    "version": "v0.24.6",
-    "date": "2024-12-07",
-    "artifacts": {
-      "apk": "app/releases/v0.24.6/app-release.apk"
-    },
-    "changelog": "appp/releases/v0.24.6/changelog.md"
-  },
-  {
     "version": "v1.0.0",
     "date": "2024-12-20",
     "artifacts": {
