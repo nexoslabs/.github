@@ -13,8 +13,8 @@ Click the **"Fork"** button on the top right corner of the repository page. This
 Clone your forked repository to your local machine:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/nexoscreation/<repo-url>.git
+cd <repo-url>
 ```
 
 ### 3. Create a New Branch
@@ -107,7 +107,7 @@ By participating, you agree to follow our [Code of Conduct](./.github/CODE_OF_CO
 If you have any questions or need help, feel free to:
 
 - **Join our Discord community:** [Click Here](https://discord.gg/H7pVc9aUK2)
-- **Reach out on Twitter:** [@nexoscreator](https://twitter.com/nexoscreator)
+- **Reach out on Twitter:** [@nexoscreation](https://twitter.com/nexoscreator)
 
 ---
 

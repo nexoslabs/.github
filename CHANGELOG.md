@@ -40,7 +40,7 @@ This project follows **[Semantic Versioning](https://semver.org/)**.
 ### 🆕 Major Changes
 
 - 🔥 **Breaking Change** – Important update that may affect users.
-- ⚠️ **Migration Guide:** [See details](https://github.com/<your-username>/<your-repo>/releases/tag/vX.X.X)
+- ⚠️ **Migration Guide:** [See details](https://github.com/nexoscreation/<repo-url>/releases/tag/vX.X.X)
 
 ### 🐛 Bug Fixes
 
@@ -61,8 +61,8 @@ This project follows **[Semantic Versioning](https://semver.org/)**:
 
 ## 📜 Previous Releases
 
-- **[Version X.X.X](https://github.com/<your-username>/<your-repo>/releases/tag/vX.X.X)**
-- **[Version X.X.X](https://github.com/<your-username>/<your-repo>/releases/tag/vX.X.X)**
+- **[Version X.X.X](https://github.com/nexoscreation/<repo-url>/releases/tag/vX.X.X)**
+- **[Version X.X.X](https://github.com/nexoscreation/<repo-url>/releases/tag/vX.X.X)**
 
 ---
 

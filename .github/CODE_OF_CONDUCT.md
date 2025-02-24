@@ -51,8 +51,8 @@ All decisions regarding enforcement **are final** and made at the discretion of 
 
 If you **experience or witness** behavior that violates this Code of Conduct:
 
-📩 **Email us at**: [contact@nexoscreator.tech](mailto:contact@nexoscreator.tech)  
-📝 **Create an issue** (if appropriate): [GitHub Issues](https://github.com/nexoscreator/<your-repo>/issues)  
+📩 **Email us at**: [contact@nexoscreation.tech](mailto:contact@nexoscreation.tech)  
+📝 **Create an issue** (if appropriate): [GitHub Issues](https://github.com/nexoscreation/<repo-url>/issues)  
 💬 **Join our Discord & Report**: [Join Here](https://discord.gg/H7pVc9aUK2)
 
 All reports will be handled **confidentially**.

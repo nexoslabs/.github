@@ -2,7 +2,7 @@
 
 Welcome to the **Discussions** section of `<Project Name>`! 🎉
 
-This is a space for the community to ask questions, share ideas, and discuss features. Before posting, please check our **[Support Guide](https://github.com/<your-username>/<your-repo>/blob/main/.github/SUPPORT.md)**.
+This is a space for the community to ask questions, share ideas, and discuss features. Before posting, please check our **[Support Guide](https://github.com/nexoscreation/<repo-url>/blob/main/.github/SUPPORT.md)**.
 
 ---
 

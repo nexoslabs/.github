@@ -1,11 +1,11 @@
 # Default owner for all files (fallback)
-*                 @nexoscreator
+*                 @nexoscreation
 
 # Core repository maintainers
-.github/          @nexos-crafter
+.github/          @nexospro
 
 # Specific file ownership
-CHANGELOG.md      @nexos-crafter
-CONTRIBUTING.md   @nexoscreator
-README.md         @nexoscreator
-LICENSE           @nexoscreator
+CHANGELOG.md      @nexospro
+CONTRIBUTING.md   @nexoscreation
+README.md         @nexoscreation
+LICENSE           @nexoscreation

@@ -9,23 +9,23 @@ Thank you for using **<Project Name>**! 🎉 If you need help, here’s how you 
 ### 📖 1. Check the Documentation
 
 Before opening a support request, please read our official documentation:  
-📖 **[Documentation](https://github.com/nexoscreator/<your-repo>/wiki)**
+📖 **[Documentation](https://github.com/nexoscreation/<repo-url>/wiki)**
 
 ---
 
 ### 🐞 2. Report a Bug
 
 If you believe you've found a **bug**, check the existing issues first:  
-🔍 **[GitHub Issues](https://github.com/nexoscreator/<your-repo>/issues)**
+🔍 **[GitHub Issues](https://github.com/nexoscreation/<repo-url>/issues)**
 
-If no similar issue exists, please report it using our **[Bug Report Template](https://github.com/nexoscreator/<your-repo>/issues/new?template=bug_report.md)**.
+If no similar issue exists, please report it using our **[Bug Report Template](https://github.com/nexoscreation/<repo-url>/issues/new?template=bug_report.md)**.
 
 ---
 
 ### 🚀 3. Request a Feature
 
 Have an idea for a **new feature**? We’d love to hear it!  
-📌 **Submit your request**: [Feature Requests](https://github.com/nexoscreator/<your-repo>/issues/new?template=feature_request.md)
+📌 **Submit your request**: [Feature Requests](https://github.com/nexoscreation/<repo-url>/issues/new?template=feature_request.md)
 
 ---
 
@@ -34,14 +34,14 @@ Have an idea for a **new feature**? We’d love to hear it!
 For general questions, discussions, or networking, join our community:
 
 💬 **Discord**: [Join Here](https://discord.gg/H7pVc9aUK2)  
-🐦 **Twitter**: [@nexoscreator](https://twitter.com/nexoscreator)
+🐦 **Twitter**: [@nexoscreation](https://twitter.com/nexoscreator)
 
 ---
 
 ### ✉️ 5. Contact Us Privately
 
 For **security concerns** or private matters, email us at:  
-📧 [support@nexoscreator.tech](mailto:support@nexoscreator.tech)
+📧 [support@nexoscreation.tech](mailto:support@nexoscreation.tech)
 
 ---
 

@@ -20,7 +20,7 @@ If you discover a **security issue** in `<Project Name>`, please **DO NOT** repo
 ### 📩 1. Contact Us Privately
 
 Send an **email** to our security team at:  
-📧 [security@nexoscreator.tech](mailto:security@nexoscreator.tech)
+📧 [security@nexoscreation.tech](mailto:security@nexoscreation.tech)
 
 Include:
 
@@ -65,7 +65,7 @@ We appreciate those who report security vulnerabilities **responsibly**. If you 
 For general security-related questions, feel free to:
 
 - Join our **Discord**: [Click Here](https://discord.gg/H7pVc9aUK2)
-- Open a **GitHub Discussion**: [Discussions](https://github.com/nexoscreator/<your-repo>/discussions)
+- Open a **GitHub Discussion**: [Discussions](https://github.com/nexoscreation/<repo-url>/discussions)
 
 ---
 

@@ -16,8 +16,8 @@ body:
       label: "🛠️ What Have You Tried?"
       description: "Describe any steps you've already taken to solve the issue."
       placeholder: |
-        - ✅ Read the [Documentation](https://github.com/nexoscreator/<your-repo>/wiki)  
-        - ✅ Checked [Existing Issues](https://github.com/nexoscreator/<your-repo>/issues)  
+        - ✅ Read the [Documentation](https://github.com/nexoscreation/<repo-url>/wiki)  
+        - ✅ Checked [Existing Issues](https://github.com/nexoscreation/<repo-url>/issues)  
         - ✅ Tried troubleshooting on my own
   - type: textarea
     attributes:

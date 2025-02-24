@@ -1,7 +1,7 @@
-![GitHub Pages](https://img.shields.io/github/deployments/<your-username>/<your-repo>/github-pages.svg?style=flat-square&color=cyan)
-![GitHub Release](https://img.shields.io/github/v/release/<your-username>/<your-repo>.svg?style=flat-square&color=cyan)
-![GitHub License](https://img.shields.io/github/license/<your-username>/<your-repo>.svg?style=flat-square&color=cyan)
-![GitHub Code](https://img.shields.io/github/languages/code-size/<your-username>/<your-repo>.svg?style=flat-square&color=cyan)
+![GitHub Pages](https://img.shields.io/github/deployments/nexoscreation/<repo-url>/github-pages.svg?style=flat-square&color=cyan)
+![GitHub Release](https://img.shields.io/github/v/release/nexoscreation/<repo-url>.svg?style=flat-square&color=cyan)
+![GitHub License](https://img.shields.io/github/license/nexoscreation/<repo-url>.svg?style=flat-square&color=cyan)
+![GitHub Code](https://img.shields.io/github/languages/code-size/nexoscreation/<repo-url>.svg?style=flat-square&color=cyan)
 
 ---
 
@@ -36,8 +36,8 @@ Follow these steps to set up **<Project Name>** on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/nexoscreation/<repo-url>.git
+   cd <repo-url>
    ```
 2. **Install dependencies:**
    ```bash
@@ -70,7 +70,7 @@ exampleFunction();
 ## 🔗 Useful Links
 
 [![Web Demo](https://img.shields.io/badge/Web-Demo-blue?style=for-the-badge&logo=google-chrome)](web-demo-url)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green?style=for-the-badge&logo=github)](https://github.com/<your-username>/<your-repo>)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green?style=for-the-badge&logo=github)](https://github.com/nexoscreation/<repo-url>)
 [![YouTube Video](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)](youtube-video-url)
 
 ---
@@ -104,9 +104,9 @@ If you find this project helpful, please consider **starring ⭐ the repository*
 ## 📬 Contact & Community
 
 💬 Join us on **Discord**: [Click Here](https://discord.gg/H7pVc9aUK2)  
-🐦 **Follow on Twitter**: [@nexoscreator](https://twitter.com/nexoscreator)  
-📧 **Email**: [contact@nexoscreator.tech](mailto:contact@nexoscreator.tech)
+🐦 **Follow on Twitter**: [@nexoscreation](https://twitter.com/nexoscreator)  
+📧 **Email**: [contact@nexoscreation.tech](mailto:contact@nexoscreation.tech)
 
 <p align="center">
-  Created with ❤️ by <a href="https://github.com/nexoscreator">@nexoscreator</a>
+  Created with ❤️ by <a href="https://github.com/nexoscreation">@nexoscreation</a>
 </p>

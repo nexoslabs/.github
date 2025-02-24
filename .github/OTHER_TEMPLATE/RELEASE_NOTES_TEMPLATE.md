@@ -10,7 +10,7 @@
 ✅ **Feature 2** – Another key enhancement.  
 ✅ **Feature 3** – More awesome improvements.
 
-🔗 **Full Changelog:** [View Changes](https://github.com/<your-username>/<your-repo>/compare/<previous-version>...<new-version>)
+🔗 **Full Changelog:** [View Changes](https://github.com/nexoscreation/<repo-url>/compare/<previous-version>...<new-version>)
 
 ---
 
@@ -34,8 +34,8 @@
 ### For new users:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/nexoscreation/<repo-url>.git
+cd <repo-url>
 npm install
 npm start
 ```
@@ -62,16 +62,16 @@ npm run build
 ## 🙌 Contributors
 
 A huge thanks to everyone who contributed to this release! 💖  
-@nexoscreator, @nexoscreation, @nexoscrafting
+@nexoscreation, @nexoscreation, @nexoscrafting
 
-🚀 **Want to contribute?** Read our [Contribution Guidelines](https://github.com/<your-username>/<your-repo>/blob/main/CONTRIBUTING.md).
+🚀 **Want to contribute?** Read our [Contribution Guidelines](https://github.com/nexoscreation/<repo-url>/blob/main/CONTRIBUTING.md).
 
 ---
 
 ## 🌟 Stay Connected
 
 💬 **Join our community**: [Discord](https://discord.gg/H7pVc9aUK2)  
-🐦 **Follow us on Twitter**: [@nexoscreator](https://twitter.com/nexoscreator)
+🐦 **Follow us on Twitter**: [@nexoscreation](https://twitter.com/nexoscreator)
 
 📌 **If you love this project, don’t forget to ⭐ star the repo!**
 
@@ -79,8 +79,8 @@ A huge thanks to everyone who contributed to this release! 💖
 
 ## 🔗 Previous Releases
 
-- **[Version X.X.X](https://github.com/<your-username>/<your-repo>/releases/tag/vX.X.X)**
-- **[Version X.X.X](https://github.com/<your-username>/<your-repo>/releases/tag/vX.X.X)**
+- **[Version X.X.X](https://github.com/nexoscreation/<repo-url>/releases/tag/vX.X.X)**
+- **[Version X.X.X](https://github.com/nexoscreation/<repo-url>/releases/tag/vX.X.X)**
 
 ---
 
