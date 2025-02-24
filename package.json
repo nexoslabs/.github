@@ -1,14 +1,14 @@
 {
-  "name": "nexos-crafter",
+  "name": "nexoscreation",
   "version": "0.2.3",
   "main": "scripts/index.js",
   "repository": "git@github.com:nexoscreation/.github.git",
-  "author": "nexos-crafter",
+  "author": "nexospro",
   "license": "UNLICENSED",
   "type": "module",
   "config": {
     "githubUID": "nexoscreation",
-    "npmUID": "nexoscreation"
+    "npmUID": "nexoscreator"
   },
   "nodemonConfig": {
     "ignore": [

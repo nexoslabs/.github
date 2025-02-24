@@ -59,39 +59,3 @@ export const fetchGitHubOrganizations = async (githubUID, token) => {
     headers: token ? { Authorization: `Bearer ${token}` } : {}
   });
 };
-
-// 🔎 Fetch repository languages via GitHub GraphQL
-export const fetchGitHubRepositoryLanguages = async (githubUID, githubToken) => {
-  const query = `
-    query {
-      user(login: "${githubUID}") {
-        repositories(first: 100, isFork: false, ownerAffiliations: OWNER) {
-          nodes {
-            name
-            languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
-              edges {
-                size
-                node { name, color }
-              }
-            }
-          }
-        }
-      }
-    }`;
-
-  try {
-    console.info(`[INFO] ${new Date().toISOString()} - Fetching GitHub repository languages for ${githubUID}`);
-    const response = await axios.post('https://api.github.com/graphql', { query }, {
-      headers: { Authorization: `Bearer ${githubToken}` }
-    });
-
-    if (response.data.errors) {
-      throw new Error(response.data.errors.map(e => e.message).join('; '));
-    }
-
-    return response.data.data.user.repositories.nodes;
-  } catch (error) {
-    console.error(`[ERROR] ${new Date().toISOString()} - Failed to fetch GitHub languages: ${error.message}`);
-    throw error;
-  }
-};

@@ -26,6 +26,7 @@ typings/
 
 # output
 output/*
+/output/
 !output/.gitkeep
 
 dev.js

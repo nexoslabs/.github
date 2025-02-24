@@ -5,7 +5,6 @@ import {
   fetchGitHubUserinfo,
   fetchGitHubRepositories,
   fetchGitHubOrganizations,
-  fetchGitHubRepositoryLanguages
 } from './fetchers.js';
 
 // 🛠 Fetch and aggregate NPM data
@@ -50,11 +49,10 @@ export const getGitHubAggregate = async () => {
   try {
     console.info(`[INFO] ${new Date().toISOString()} - Fetching GitHub data for ${CONFIG.GITHUB_UID}`);
 
-    const [userinfo, repositories, organizations, repoLanguages] = await Promise.all([
+    const [userinfo, repositories, organizations] = await Promise.all([
       fetchGitHubUserinfo(CONFIG.GITHUB_UID, GITHUB_ACCESS_TOKEN),
       fetchGitHubRepositories(CONFIG.GITHUB_UID, GITHUB_ACCESS_TOKEN),
-      fetchGitHubOrganizations(CONFIG.GITHUB_UID, GITHUB_ACCESS_TOKEN),
-      fetchGitHubRepositoryLanguages(CONFIG.GITHUB_UID, GITHUB_ACCESS_TOKEN)
+      fetchGitHubOrganizations(CONFIG.GITHUB_UID, GITHUB_ACCESS_TOKEN)
     ]);
 
     if (!repositories || !Array.isArray(repositories)) {
