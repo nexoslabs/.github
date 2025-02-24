@@ -1,13 +1,21 @@
+[![Profile Generate](https://github.com/nexoscreation/.github/actions/workflows/profile-generate.yml/badge.svg)](https://github.com/nexoscreation/.github/actions/workflows/profile-generate.yml)
+[![App Release Workflow](https://github.com/nexoscreation/.github/actions/workflows/app-release.yml/badge.svg)](https://github.com/nexoscreation/.github/actions/workflows/app-release.yml)
+
+---
+
 # Welcome to Nexos Creation 🚀
 
-![Nexos Creation Banner](https://example.com/nexos-creation-banner.png)
+![Nexos Creation Banner](https://nexoscreation.tech/banner.png)
 
 > 🌟 Crafting innovative solutions for the digital world
+
+---
 
 ## 🎯 Our Mission
 
 At Nexos Creation, we're passionate about building cutting-edge software that empowers users and pushes the boundaries of technology. Our mission is to create intuitive, efficient, and beautiful applications that solve real-world problems.
 
+---
 
 ## 🤝 Join Our Community
 
@@ -17,6 +25,8 @@ We believe in the power of collaboration and open source. Here's how you can get
 - 🐛 Report issues and suggest features
 - 🔧 Contribute code or documentation
 - 💬 Join our [Discord community](https://discord.com/invite/A3euTAVqHv)
+
+---
 
 ## 📚 Resources
 
@@ -28,6 +38,8 @@ We believe in the power of collaboration and open source. Here's how you can get
 
 - [Twitter](https://twitter.com/nexoscreation)
 - [Blog](https://nexoscreation.tech/blog)
+
+---
 
 ## 🎉 Support Us
 
