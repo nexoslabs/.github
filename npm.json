@@ -3,12 +3,12 @@
     "packages": [
       {
         "downloads": {
-          "monthly": 261,
-          "weekly": 80
+          "monthly": 191,
+          "weekly": 19
         },
-        "dependents": 0,
-        "updated": "2025-02-28T07:56:06.880Z",
-        "searchScore": 31.973755,
+        "dependents": 1,
+        "updated": "2025-03-07T08:01:06.487Z",
+        "searchScore": 29.079496,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -41,7 +41,7 @@
           }
         },
         "score": {
-          "final": 31.973755,
+          "final": 29.079496,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -54,12 +54,12 @@
       },
       {
         "downloads": {
-          "monthly": 30,
-          "weekly": 12
+          "monthly": 19,
+          "weekly": 1
         },
         "dependents": 0,
-        "updated": "2025-02-28T07:11:06.690Z",
-        "searchScore": 18.30156,
+        "updated": "2025-03-07T07:16:06.764Z",
+        "searchScore": 15.123374,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -94,7 +94,7 @@
           }
         },
         "score": {
-          "final": 18.30156,
+          "final": 15.123374,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -112,7 +112,7 @@
         },
         "dependents": 0,
         "updated": "2025-03-02T10:11:11.402Z",
-        "searchScore": 14.182849,
+        "searchScore": 14.383695,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -143,7 +143,7 @@
           }
         },
         "score": {
-          "final": 14.182849,
+          "final": 14.383695,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -161,7 +161,7 @@
         },
         "dependents": 0,
         "updated": "2025-03-01T14:21:06.770Z",
-        "searchScore": 13.50769,
+        "searchScore": 13.585953,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -194,7 +194,7 @@
           }
         },
         "score": {
-          "final": 13.50769,
+          "final": 13.585953,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -207,6 +207,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 869
+    "packageDownloadsTotal": 874
   }
 }
