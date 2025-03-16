@@ -8,7 +8,7 @@
         },
         "dependents": 1,
         "updated": "2025-03-14T08:06:08.307Z",
-        "searchScore": 29.946423,
+        "searchScore": 29.948479,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 29.946423,
+          "final": 29.948479,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -60,7 +60,7 @@
         },
         "dependents": 0,
         "updated": "2025-03-14T07:21:06.625Z",
-        "searchScore": 14.965181,
+        "searchScore": 14.998261,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -96,7 +96,7 @@
           }
         },
         "score": {
-          "final": 14.965181,
+          "final": 14.998261,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -109,12 +109,12 @@
       },
       {
         "downloads": {
-          "monthly": 9,
+          "monthly": 8,
           "weekly": 1
         },
         "dependents": 0,
-        "updated": "2025-03-09T10:16:06.910Z",
-        "searchScore": 11.130491,
+        "updated": "2025-03-16T10:21:09.070Z",
+        "searchScore": 10.08122,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -125,6 +125,7 @@
           ],
           "version": "0.3.0",
           "description": "A lightweight, customizable YouTube player component with lazy loading capabilities",
+          "sanitized_name": "lazy-youtube-player",
           "publisher": {
             "email": "nexoscreation@gmail.com",
             "username": "nexoscreator"
@@ -145,7 +146,7 @@
           }
         },
         "score": {
-          "final": 11.130491,
+          "final": 10.08122,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -158,12 +159,12 @@
       },
       {
         "downloads": {
-          "monthly": 6,
+          "monthly": 5,
           "weekly": 1
         },
         "dependents": 0,
-        "updated": "2025-03-08T14:26:06.461Z",
-        "searchScore": 9.323009,
+        "updated": "2025-03-15T14:31:06.264Z",
+        "searchScore": 8.115604,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -176,6 +177,7 @@
           ],
           "version": "1.0.0",
           "description": "An advanced Termux package for automation, customization, and system management.",
+          "sanitized_name": "termuxpert",
           "publisher": {
             "email": "nexoscreation@gmail.com",
             "username": "nexoscreator"
@@ -196,7 +198,7 @@
           }
         },
         "score": {
-          "final": 9.323009,
+          "final": 8.115604,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -209,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 920
+    "packageDownloadsTotal": 958
   }
 }
