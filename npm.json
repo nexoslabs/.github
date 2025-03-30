@@ -8,7 +8,7 @@
         },
         "dependents": 1,
         "updated": "2025-03-28T08:16:18.789Z",
-        "searchScore": 32.437023,
+        "searchScore": 32.40979,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,57 @@
           }
         },
         "score": {
-          "final": 32.437023,
+          "final": 32.40979,
+          "detail": {
+            "popularity": 1,
+            "quality": 1,
+            "maintenance": 1
+          }
+        },
+        "flags": {
+          "insecure": 0
+        }
+      },
+      {
+        "downloads": {
+          "monthly": 12,
+          "weekly": 7
+        },
+        "dependents": 0,
+        "updated": "2025-03-30T10:31:11.298Z",
+        "searchScore": 12.632857,
+        "package": {
+          "name": "lazy-youtube-player",
+          "keywords": [
+            "youtube",
+            "player",
+            "yt-player",
+            "lazy-loading"
+          ],
+          "version": "0.3.0",
+          "description": "A lightweight, customizable YouTube player component with lazy loading capabilities",
+          "sanitized_name": "lazy-youtube-player",
+          "publisher": {
+            "email": "nexoscreation@gmail.com",
+            "username": "nexoscreator"
+          },
+          "maintainers": [
+            {
+              "email": "nexoscreation@gmail.com",
+              "username": "nexoscreator"
+            }
+          ],
+          "license": "MIT",
+          "date": "2025-01-05T09:39:02.275Z",
+          "links": {
+            "homepage": "https://github.com/nexoscreator/lazy-youtube-player#readme",
+            "repository": "git+https://github.com/nexoscreator/lazy-youtube-player.git",
+            "bugs": "https://github.com/nexoscreator/lazy-youtube-player/issues",
+            "npm": "https://www.npmjs.com/package/lazy-youtube-player"
+          }
+        },
+        "score": {
+          "final": 12.632857,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -60,7 +110,7 @@
         },
         "dependents": 0,
         "updated": "2025-03-28T07:31:13.916Z",
-        "searchScore": 11.102851,
+        "searchScore": 11.089287,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -96,7 +146,7 @@
           }
         },
         "score": {
-          "final": 11.102851,
+          "final": 11.089287,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -109,62 +159,12 @@
       },
       {
         "downloads": {
-          "monthly": 7,
-          "weekly": 0
+          "monthly": 6,
+          "weekly": 2
         },
         "dependents": 0,
-        "updated": "2025-03-23T10:26:06.423Z",
-        "searchScore": 10.175017,
-        "package": {
-          "name": "lazy-youtube-player",
-          "keywords": [
-            "youtube",
-            "player",
-            "yt-player",
-            "lazy-loading"
-          ],
-          "version": "0.3.0",
-          "description": "A lightweight, customizable YouTube player component with lazy loading capabilities",
-          "sanitized_name": "lazy-youtube-player",
-          "publisher": {
-            "email": "nexoscreation@gmail.com",
-            "username": "nexoscreator"
-          },
-          "maintainers": [
-            {
-              "email": "nexoscreation@gmail.com",
-              "username": "nexoscreator"
-            }
-          ],
-          "license": "MIT",
-          "date": "2025-01-05T09:39:02.275Z",
-          "links": {
-            "homepage": "https://github.com/nexoscreator/lazy-youtube-player#readme",
-            "repository": "git+https://github.com/nexoscreator/lazy-youtube-player.git",
-            "bugs": "https://github.com/nexoscreator/lazy-youtube-player/issues",
-            "npm": "https://www.npmjs.com/package/lazy-youtube-player"
-          }
-        },
-        "score": {
-          "final": 10.175017,
-          "detail": {
-            "popularity": 1,
-            "quality": 1,
-            "maintenance": 1
-          }
-        },
-        "flags": {
-          "insecure": 0
-        }
-      },
-      {
-        "downloads": {
-          "monthly": 5,
-          "weekly": 0
-        },
-        "dependents": 0,
-        "updated": "2025-03-22T14:36:06.201Z",
-        "searchScore": 8.517251,
+        "updated": "2025-03-29T14:41:11.203Z",
+        "searchScore": 8.971303,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -198,7 +198,7 @@
           }
         },
         "score": {
-          "final": 8.517251,
+          "final": 8.971303,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -211,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 1190
+    "packageDownloadsTotal": 1206
   }
 }
