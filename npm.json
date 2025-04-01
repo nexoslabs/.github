@@ -1,0 +1,216 @@
+{
+  "npm": {
+    "packages": [
+      {
+        "downloads": {
+          "monthly": 302,
+          "weekly": 113
+        },
+        "dependents": 1,
+        "updated": "2025-03-28T08:16:18.789Z",
+        "searchScore": 32.793377,
+        "package": {
+          "name": "nuxt-google-translate",
+          "keywords": [
+            "nuxt",
+            "nuxt-module",
+            "nuxt-widget",
+            "translation",
+            "multilingual",
+            "language-switcher"
+          ],
+          "version": "1.2.0",
+          "description": "A simple Nuxt module that integrates the Google Translate widget into your Nuxt.js application, allowing seamless multilingual support without requiring an API key.",
+          "sanitized_name": "nuxt-google-translate",
+          "publisher": {
+            "email": "nexoscreation@gmail.com",
+            "username": "nexoscreator"
+          },
+          "maintainers": [
+            {
+              "email": "nexoscreation@gmail.com",
+              "username": "nexoscreator"
+            }
+          ],
+          "license": "MIT",
+          "date": "2025-02-21T07:51:42.245Z",
+          "links": {
+            "homepage": "https://github.com/nexoscreation/nuxt-google-translate#readme",
+            "repository": "git+https://github.com/nexoscreation/nuxt-google-translate.git",
+            "bugs": "https://github.com/nexoscreation/nuxt-google-translate/issues",
+            "npm": "https://www.npmjs.com/package/nuxt-google-translate"
+          }
+        },
+        "score": {
+          "final": 32.793377,
+          "detail": {
+            "popularity": 1,
+            "quality": 1,
+            "maintenance": 1
+          }
+        },
+        "flags": {
+          "insecure": 0
+        }
+      },
+      {
+        "downloads": {
+          "monthly": 12,
+          "weekly": 7
+        },
+        "dependents": 0,
+        "updated": "2025-03-30T10:31:11.298Z",
+        "searchScore": 12.699087,
+        "package": {
+          "name": "lazy-youtube-player",
+          "keywords": [
+            "youtube",
+            "player",
+            "yt-player",
+            "lazy-loading"
+          ],
+          "version": "0.3.0",
+          "description": "A lightweight, customizable YouTube player component with lazy loading capabilities",
+          "sanitized_name": "lazy-youtube-player",
+          "publisher": {
+            "email": "nexoscreation@gmail.com",
+            "username": "nexoscreator"
+          },
+          "maintainers": [
+            {
+              "email": "nexoscreation@gmail.com",
+              "username": "nexoscreator"
+            }
+          ],
+          "license": "MIT",
+          "date": "2025-01-05T09:39:02.275Z",
+          "links": {
+            "homepage": "https://github.com/nexoscreator/lazy-youtube-player#readme",
+            "repository": "git+https://github.com/nexoscreator/lazy-youtube-player.git",
+            "bugs": "https://github.com/nexoscreator/lazy-youtube-player/issues",
+            "npm": "https://www.npmjs.com/package/lazy-youtube-player"
+          }
+        },
+        "score": {
+          "final": 12.699087,
+          "detail": {
+            "popularity": 1,
+            "quality": 1,
+            "maintenance": 1
+          }
+        },
+        "flags": {
+          "insecure": 0
+        }
+      },
+      {
+        "downloads": {
+          "monthly": 9,
+          "weekly": 3
+        },
+        "dependents": 0,
+        "updated": "2025-03-28T07:31:13.916Z",
+        "searchScore": 11.170547,
+        "package": {
+          "name": "featurastic-ui-buttons",
+          "keywords": [
+            "UI",
+            "buttons",
+            "frontend",
+            "library",
+            "customizable",
+            "modern",
+            "css",
+            "javascript"
+          ],
+          "version": "1.0.0",
+          "description": "A feature-rich, modern, and customizable UI button library.",
+          "sanitized_name": "featurastic-ui-buttons",
+          "publisher": {
+            "email": "nexoscreation@gmail.com",
+            "username": "nexoscreator"
+          },
+          "maintainers": [
+            {
+              "email": "nexoscreation@gmail.com",
+              "username": "nexoscreator"
+            }
+          ],
+          "license": "CC0-1.0",
+          "date": "2025-01-10T06:35:45.633Z",
+          "links": {
+            "homepage": "https://github.com/nexoscreation/featurastic-ui-butttons#readme",
+            "repository": "git+https://github.com/nexoscreation/featurastic-ui-butttons.git",
+            "bugs": "https://github.com/nexoscreation/featurastic-ui-butttons/issues",
+            "npm": "https://www.npmjs.com/package/featurastic-ui-buttons"
+          }
+        },
+        "score": {
+          "final": 11.170547,
+          "detail": {
+            "popularity": 1,
+            "quality": 1,
+            "maintenance": 1
+          }
+        },
+        "flags": {
+          "insecure": 0
+        }
+      },
+      {
+        "downloads": {
+          "monthly": 6,
+          "weekly": 2
+        },
+        "dependents": 0,
+        "updated": "2025-03-29T14:41:11.203Z",
+        "searchScore": 9.091703,
+        "package": {
+          "name": "termuxpert",
+          "keywords": [
+            "termux",
+            "automation",
+            "customization",
+            "system-management",
+            "linux-tools",
+            "expert-tools"
+          ],
+          "version": "1.0.0",
+          "description": "An advanced Termux package for automation, customization, and system management.",
+          "sanitized_name": "termuxpert",
+          "publisher": {
+            "email": "nexoscreation@gmail.com",
+            "username": "nexoscreator"
+          },
+          "maintainers": [
+            {
+              "email": "nexoscreation@gmail.com",
+              "username": "nexoscreator"
+            }
+          ],
+          "license": "ISC",
+          "date": "2025-01-18T13:51:41.509Z",
+          "links": {
+            "homepage": "https://github.com/nexoscreation/TermuXpert#readme",
+            "repository": "git+https://github.com/nexoscreation/TermuXpert.git",
+            "bugs": "https://github.com/nexoscreation/TermuXpert/issues",
+            "npm": "https://www.npmjs.com/package/termuxpert"
+          }
+        },
+        "score": {
+          "final": 9.091703,
+          "detail": {
+            "popularity": 1,
+            "quality": 1,
+            "maintenance": 1
+          }
+        },
+        "flags": {
+          "insecure": 0
+        }
+      }
+    ],
+    "packageCount": 4,
+    "packageDownloadsTotal": 1247
+  }
+}
