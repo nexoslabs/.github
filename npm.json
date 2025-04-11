@@ -3,12 +3,12 @@
     "packages": [
       {
         "downloads": {
-          "monthly": 448,
-          "weekly": 160
+          "monthly": 625,
+          "weekly": 212
         },
         "dependents": 1,
-        "updated": "2025-04-04T08:21:11.726Z",
-        "searchScore": 35.512814,
+        "updated": "2025-04-11T08:26:07.605Z",
+        "searchScore": 36.715534,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 35.512814,
+          "final": 36.715534,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -60,7 +60,7 @@
         },
         "dependents": 0,
         "updated": "2025-04-06T10:36:06.904Z",
-        "searchScore": 16.317173,
+        "searchScore": 16.526009,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -92,7 +92,7 @@
           }
         },
         "score": {
-          "final": 16.317173,
+          "final": 16.526009,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -105,12 +105,64 @@
       },
       {
         "downloads": {
-          "monthly": 5,
+          "monthly": 4,
           "weekly": 0
         },
         "dependents": 0,
-        "updated": "2025-04-04T07:36:11.304Z",
-        "searchScore": 8.362111,
+        "updated": "2025-04-05T14:46:12.206Z",
+        "searchScore": 7.364195,
+        "package": {
+          "name": "termuxpert",
+          "keywords": [
+            "termux",
+            "automation",
+            "customization",
+            "system-management",
+            "linux-tools",
+            "expert-tools"
+          ],
+          "version": "1.0.0",
+          "description": "An advanced Termux package for automation, customization, and system management.",
+          "sanitized_name": "termuxpert",
+          "publisher": {
+            "email": "nexoscreation@gmail.com",
+            "username": "nexoscreator"
+          },
+          "maintainers": [
+            {
+              "email": "nexoscreation@gmail.com",
+              "username": "nexoscreator"
+            }
+          ],
+          "license": "ISC",
+          "date": "2025-01-18T13:51:41.509Z",
+          "links": {
+            "homepage": "https://github.com/nexoscreation/TermuXpert#readme",
+            "repository": "git+https://github.com/nexoscreation/TermuXpert.git",
+            "bugs": "https://github.com/nexoscreation/TermuXpert/issues",
+            "npm": "https://www.npmjs.com/package/termuxpert"
+          }
+        },
+        "score": {
+          "final": 7.364195,
+          "detail": {
+            "popularity": 1,
+            "quality": 1,
+            "maintenance": 1
+          }
+        },
+        "flags": {
+          "insecure": 0
+        }
+      },
+      {
+        "downloads": {
+          "monthly": 4,
+          "weekly": 0
+        },
+        "dependents": 0,
+        "updated": "2025-04-11T07:41:11.181Z",
+        "searchScore": 7.129412,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -146,59 +198,7 @@
           }
         },
         "score": {
-          "final": 8.362111,
-          "detail": {
-            "popularity": 1,
-            "quality": 1,
-            "maintenance": 1
-          }
-        },
-        "flags": {
-          "insecure": 0
-        }
-      },
-      {
-        "downloads": {
-          "monthly": 4,
-          "weekly": 0
-        },
-        "dependents": 0,
-        "updated": "2025-04-05T14:46:12.206Z",
-        "searchScore": 7.393692,
-        "package": {
-          "name": "termuxpert",
-          "keywords": [
-            "termux",
-            "automation",
-            "customization",
-            "system-management",
-            "linux-tools",
-            "expert-tools"
-          ],
-          "version": "1.0.0",
-          "description": "An advanced Termux package for automation, customization, and system management.",
-          "sanitized_name": "termuxpert",
-          "publisher": {
-            "email": "nexoscreation@gmail.com",
-            "username": "nexoscreator"
-          },
-          "maintainers": [
-            {
-              "email": "nexoscreation@gmail.com",
-              "username": "nexoscreator"
-            }
-          ],
-          "license": "ISC",
-          "date": "2025-01-18T13:51:41.509Z",
-          "links": {
-            "homepage": "https://github.com/nexoscreation/TermuXpert#readme",
-            "repository": "git+https://github.com/nexoscreation/TermuXpert.git",
-            "bugs": "https://github.com/nexoscreation/TermuXpert/issues",
-            "npm": "https://www.npmjs.com/package/termuxpert"
-          }
-        },
-        "score": {
-          "final": 7.393692,
+          "final": 7.129412,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -211,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 1541
+    "packageDownloadsTotal": 1558
   }
 }
