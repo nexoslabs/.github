@@ -1,6 +1,6 @@
 # Changelog for Nexos Creation v1.0.0
 
-## [v0.1.0.0] - 2024-12-20
+## [v1.0.0] - 2024-12-20
 
 ### Changed
 
@@ -18,4 +18,4 @@
 
 ---
 
-_Note: This release is latest release of a future updates._
+_Note: This release is decrepted consider update to latest updates._
