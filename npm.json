@@ -8,7 +8,7 @@
         },
         "dependents": 1,
         "updated": "2025-05-29T04:51:07.111Z",
-        "searchScore": 39.01235,
+        "searchScore": 39.607327,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 39.01235,
+          "final": 39.607327,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -55,12 +55,62 @@
       },
       {
         "downloads": {
-          "monthly": 15,
-          "weekly": 3
+          "monthly": 10,
+          "weekly": 0
         },
         "dependents": 0,
-        "updated": "2025-05-23T08:11:13.273Z",
-        "searchScore": 14.256042,
+        "updated": "2025-05-25T11:11:07.918Z",
+        "searchScore": 12.153921,
+        "package": {
+          "name": "lazy-youtube-player",
+          "keywords": [
+            "youtube",
+            "player",
+            "yt-player",
+            "lazy-loading"
+          ],
+          "version": "0.3.0",
+          "description": "A lightweight, customizable YouTube player component with lazy loading capabilities",
+          "sanitized_name": "lazy-youtube-player",
+          "publisher": {
+            "email": "nexoscreation@gmail.com",
+            "username": "nexoscreator"
+          },
+          "maintainers": [
+            {
+              "email": "nexoscreation@gmail.com",
+              "username": "nexoscreator"
+            }
+          ],
+          "license": "MIT",
+          "date": "2025-01-05T09:39:02.275Z",
+          "links": {
+            "homepage": "https://github.com/nexoscreator/lazy-youtube-player#readme",
+            "repository": "git+https://github.com/nexoscreator/lazy-youtube-player.git",
+            "bugs": "https://github.com/nexoscreator/lazy-youtube-player/issues",
+            "npm": "https://www.npmjs.com/package/lazy-youtube-player"
+          }
+        },
+        "score": {
+          "final": 12.153921,
+          "detail": {
+            "popularity": 1,
+            "quality": 1,
+            "maintenance": 1
+          }
+        },
+        "flags": {
+          "insecure": 0
+        }
+      },
+      {
+        "downloads": {
+          "monthly": 11,
+          "weekly": 2
+        },
+        "dependents": 0,
+        "updated": "2025-05-30T08:16:14.255Z",
+        "searchScore": 12.104703,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -96,57 +146,7 @@
           }
         },
         "score": {
-          "final": 14.256042,
-          "detail": {
-            "popularity": 1,
-            "quality": 1,
-            "maintenance": 1
-          }
-        },
-        "flags": {
-          "insecure": 0
-        }
-      },
-      {
-        "downloads": {
-          "monthly": 10,
-          "weekly": 0
-        },
-        "dependents": 0,
-        "updated": "2025-05-25T11:11:07.918Z",
-        "searchScore": 12.078454,
-        "package": {
-          "name": "lazy-youtube-player",
-          "keywords": [
-            "youtube",
-            "player",
-            "yt-player",
-            "lazy-loading"
-          ],
-          "version": "0.3.0",
-          "description": "A lightweight, customizable YouTube player component with lazy loading capabilities",
-          "sanitized_name": "lazy-youtube-player",
-          "publisher": {
-            "email": "nexoscreation@gmail.com",
-            "username": "nexoscreator"
-          },
-          "maintainers": [
-            {
-              "email": "nexoscreation@gmail.com",
-              "username": "nexoscreator"
-            }
-          ],
-          "license": "MIT",
-          "date": "2025-01-05T09:39:02.275Z",
-          "links": {
-            "homepage": "https://github.com/nexoscreator/lazy-youtube-player#readme",
-            "repository": "git+https://github.com/nexoscreator/lazy-youtube-player.git",
-            "bugs": "https://github.com/nexoscreator/lazy-youtube-player/issues",
-            "npm": "https://www.npmjs.com/package/lazy-youtube-player"
-          }
-        },
-        "score": {
-          "final": 12.078454,
+          "final": 12.104703,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -164,7 +164,7 @@
         },
         "dependents": 0,
         "updated": "2025-05-24T15:21:06.877Z",
-        "searchScore": 10.96037,
+        "searchScore": 10.907438,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -198,7 +198,7 @@
           }
         },
         "score": {
-          "final": 10.96037,
+          "final": 10.907438,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -211,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 3251
+    "packageDownloadsTotal": 3281
   }
 }
