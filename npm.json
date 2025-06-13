@@ -8,7 +8,7 @@
         },
         "dependents": 1,
         "updated": "2025-06-12T05:01:12.967Z",
-        "searchScore": 39.11954,
+        "searchScore": 39.809425,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 39.11954,
+          "final": 39.809425,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -59,8 +59,8 @@
           "weekly": 0
         },
         "dependents": 0,
-        "updated": "2025-06-06T08:21:11.022Z",
-        "searchScore": 9.036089,
+        "updated": "2025-06-13T08:26:16.490Z",
+        "searchScore": 8.829636,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -96,7 +96,7 @@
           }
         },
         "score": {
-          "final": 9.036089,
+          "final": 8.829636,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -114,7 +114,7 @@
         },
         "dependents": 0,
         "updated": "2025-06-08T11:21:06.848Z",
-        "searchScore": 6.0056496,
+        "searchScore": 6.1028695,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -146,7 +146,7 @@
           }
         },
         "score": {
-          "final": 6.0056496,
+          "final": 6.1028695,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -164,7 +164,7 @@
         },
         "dependents": 0,
         "updated": "2025-06-07T15:31:06.195Z",
-        "searchScore": 2.7481081,
+        "searchScore": 2.7793,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -198,7 +198,7 @@
           }
         },
         "score": {
-          "final": 2.7481081,
+          "final": 2.7793,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -211,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 3642
+    "packageDownloadsTotal": 3687
   }
 }
