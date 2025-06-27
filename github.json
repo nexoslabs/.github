@@ -105,13 +105,13 @@
         "deployments_url": "https://api.github.com/repos/nexoscreation/.github/deployments",
         "created_at": "2024-07-05T03:59:10Z",
         "updated_at": "2025-05-23T13:57:30Z",
-        "pushed_at": "2025-06-25T13:10:09Z",
+        "pushed_at": "2025-06-26T13:09:17Z",
         "git_url": "git://github.com/nexoscreation/.github.git",
         "ssh_url": "git@github.com:nexoscreation/.github.git",
         "clone_url": "https://github.com/nexoscreation/.github.git",
         "svn_url": "https://github.com/nexoscreation/.github",
         "homepage": "https://www.nexoscreation.tech",
-        "size": 113666,
+        "size": 113664,
         "stargazers_count": 0,
         "watchers_count": 0,
         "language": "JavaScript",
@@ -434,7 +434,7 @@
         "releases_url": "https://api.github.com/repos/nexoscreation/discord-24-7-rich-presence/releases{/id}",
         "deployments_url": "https://api.github.com/repos/nexoscreation/discord-24-7-rich-presence/deployments",
         "created_at": "2025-05-30T02:03:14Z",
-        "updated_at": "2025-06-06T16:13:28Z",
+        "updated_at": "2025-06-26T15:36:37Z",
         "pushed_at": "2025-06-06T16:13:27Z",
         "git_url": "git://github.com/nexoscreation/discord-24-7-rich-presence.git",
         "ssh_url": "git@github.com:nexoscreation/discord-24-7-rich-presence.git",
@@ -442,8 +442,8 @@
         "svn_url": "https://github.com/nexoscreation/discord-24-7-rich-presence",
         "homepage": "https://bot.nexoscrafting.live",
         "size": 362,
-        "stargazers_count": 1,
-        "watchers_count": 1,
+        "stargazers_count": 2,
+        "watchers_count": 2,
         "language": "JavaScript",
         "has_issues": true,
         "has_projects": true,
@@ -477,7 +477,7 @@
         "visibility": "public",
         "forks": 0,
         "open_issues": 0,
-        "watchers": 1,
+        "watchers": 2,
         "default_branch": "main"
       },
       {
@@ -1263,7 +1263,7 @@
     ],
     "organizations": [],
     "statistics": {
-      "stars": 26,
+      "stars": 27,
       "forks": 4,
       "open_issues": 2
     }
