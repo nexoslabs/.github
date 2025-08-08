@@ -8,7 +8,7 @@
         },
         "dependents": "1",
         "updated": "2025-08-07T04:22:35.776Z",
-        "searchScore": 39.20603,
+        "searchScore": 39.66813,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 39.20603,
+          "final": 39.66813,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -55,12 +55,114 @@
       },
       {
         "downloads": {
-          "monthly": 7,
+          "monthly": 6,
+          "weekly": 1
+        },
+        "dependents": 0,
+        "updated": "2025-08-03T12:01:06.722Z",
+        "searchScore": 9.407576,
+        "package": {
+          "name": "lazy-youtube-player",
+          "keywords": [
+            "youtube",
+            "player",
+            "yt-player",
+            "lazy-loading"
+          ],
+          "version": "0.3.0",
+          "description": "A lightweight, customizable YouTube player component with lazy loading capabilities",
+          "sanitized_name": "lazy-youtube-player",
+          "publisher": {
+            "email": "nexoscreation@gmail.com",
+            "username": "nexoscreator"
+          },
+          "maintainers": [
+            {
+              "email": "nexoscreation@gmail.com",
+              "username": "nexoscreator"
+            }
+          ],
+          "license": "MIT",
+          "date": "2025-01-05T09:39:02.275Z",
+          "links": {
+            "homepage": "https://github.com/nexoscreator/lazy-youtube-player#readme",
+            "repository": "git+https://github.com/nexoscreator/lazy-youtube-player.git",
+            "bugs": "https://github.com/nexoscreator/lazy-youtube-player/issues",
+            "npm": "https://www.npmjs.com/package/lazy-youtube-player"
+          }
+        },
+        "score": {
+          "final": 9.407576,
+          "detail": {
+            "popularity": 1,
+            "quality": 1,
+            "maintenance": 1
+          }
+        },
+        "flags": {
+          "insecure": 0
+        }
+      },
+      {
+        "downloads": {
+          "monthly": 3,
           "weekly": 0
         },
         "dependents": 0,
-        "updated": "2025-08-01T09:01:14.282Z",
-        "searchScore": 10.015471,
+        "updated": "2025-08-02T16:11:11.492Z",
+        "searchScore": 6.2721066,
+        "package": {
+          "name": "termuxpert",
+          "keywords": [
+            "termux",
+            "automation",
+            "customization",
+            "system-management",
+            "linux-tools",
+            "expert-tools"
+          ],
+          "version": "1.0.0",
+          "description": "An advanced Termux package for automation, customization, and system management.",
+          "sanitized_name": "termuxpert",
+          "publisher": {
+            "email": "nexoscreation@gmail.com",
+            "username": "nexoscreator"
+          },
+          "maintainers": [
+            {
+              "email": "nexoscreation@gmail.com",
+              "username": "nexoscreator"
+            }
+          ],
+          "license": "ISC",
+          "date": "2025-01-18T13:51:41.509Z",
+          "links": {
+            "homepage": "https://github.com/nexoscreation/TermuXpert#readme",
+            "repository": "git+https://github.com/nexoscreation/TermuXpert.git",
+            "bugs": "https://github.com/nexoscreation/TermuXpert/issues",
+            "npm": "https://www.npmjs.com/package/termuxpert"
+          }
+        },
+        "score": {
+          "final": 6.2721066,
+          "detail": {
+            "popularity": 1,
+            "quality": 1,
+            "maintenance": 1
+          }
+        },
+        "flags": {
+          "insecure": 0
+        }
+      },
+      {
+        "downloads": {
+          "monthly": 1,
+          "weekly": 0
+        },
+        "dependents": 0,
+        "updated": "2025-08-08T09:06:08.296Z",
+        "searchScore": 2.603546,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -96,109 +198,7 @@
           }
         },
         "score": {
-          "final": 10.015471,
-          "detail": {
-            "popularity": 1,
-            "quality": 1,
-            "maintenance": 1
-          }
-        },
-        "flags": {
-          "insecure": 0
-        }
-      },
-      {
-        "downloads": {
-          "monthly": 6,
-          "weekly": 1
-        },
-        "dependents": 0,
-        "updated": "2025-08-03T12:01:06.722Z",
-        "searchScore": 9.363505,
-        "package": {
-          "name": "lazy-youtube-player",
-          "keywords": [
-            "youtube",
-            "player",
-            "yt-player",
-            "lazy-loading"
-          ],
-          "version": "0.3.0",
-          "description": "A lightweight, customizable YouTube player component with lazy loading capabilities",
-          "sanitized_name": "lazy-youtube-player",
-          "publisher": {
-            "email": "nexoscreation@gmail.com",
-            "username": "nexoscreator"
-          },
-          "maintainers": [
-            {
-              "email": "nexoscreation@gmail.com",
-              "username": "nexoscreator"
-            }
-          ],
-          "license": "MIT",
-          "date": "2025-01-05T09:39:02.275Z",
-          "links": {
-            "homepage": "https://github.com/nexoscreator/lazy-youtube-player#readme",
-            "repository": "git+https://github.com/nexoscreator/lazy-youtube-player.git",
-            "bugs": "https://github.com/nexoscreator/lazy-youtube-player/issues",
-            "npm": "https://www.npmjs.com/package/lazy-youtube-player"
-          }
-        },
-        "score": {
-          "final": 9.363505,
-          "detail": {
-            "popularity": 1,
-            "quality": 1,
-            "maintenance": 1
-          }
-        },
-        "flags": {
-          "insecure": 0
-        }
-      },
-      {
-        "downloads": {
-          "monthly": 3,
-          "weekly": 0
-        },
-        "dependents": 0,
-        "updated": "2025-08-02T16:11:11.492Z",
-        "searchScore": 6.204007,
-        "package": {
-          "name": "termuxpert",
-          "keywords": [
-            "termux",
-            "automation",
-            "customization",
-            "system-management",
-            "linux-tools",
-            "expert-tools"
-          ],
-          "version": "1.0.0",
-          "description": "An advanced Termux package for automation, customization, and system management.",
-          "sanitized_name": "termuxpert",
-          "publisher": {
-            "email": "nexoscreation@gmail.com",
-            "username": "nexoscreator"
-          },
-          "maintainers": [
-            {
-              "email": "nexoscreation@gmail.com",
-              "username": "nexoscreator"
-            }
-          ],
-          "license": "ISC",
-          "date": "2025-01-18T13:51:41.509Z",
-          "links": {
-            "homepage": "https://github.com/nexoscreation/TermuXpert#readme",
-            "repository": "git+https://github.com/nexoscreation/TermuXpert.git",
-            "bugs": "https://github.com/nexoscreation/TermuXpert/issues",
-            "npm": "https://www.npmjs.com/package/termuxpert"
-          }
-        },
-        "score": {
-          "final": 6.204007,
+          "final": 2.603546,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -211,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 5617
+    "packageDownloadsTotal": 5718
   }
 }
