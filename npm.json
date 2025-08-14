@@ -3,12 +3,12 @@
     "packages": [
       {
         "downloads": {
-          "monthly": 977,
-          "weekly": 281
+          "monthly": 1049,
+          "weekly": 300
         },
         "dependents": "1",
-        "updated": "2025-08-07T04:22:35.776Z",
-        "searchScore": 42.15181,
+        "updated": "2025-08-14T04:26:08.771Z",
+        "searchScore": 40.895412,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 42.15181,
+          "final": 40.895412,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -60,7 +60,7 @@
         },
         "dependents": 0,
         "updated": "2025-08-10T12:06:14.178Z",
-        "searchScore": 9.196465,
+        "searchScore": 9.373236,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -92,7 +92,7 @@
           }
         },
         "score": {
-          "final": 9.196465,
+          "final": 9.373236,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -110,7 +110,7 @@
         },
         "dependents": 0,
         "updated": "2025-08-09T16:16:11.180Z",
-        "searchScore": 6.151693,
+        "searchScore": 6.247103,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -144,7 +144,7 @@
           }
         },
         "score": {
-          "final": 6.151693,
+          "final": 6.247103,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -162,7 +162,7 @@
         },
         "dependents": 0,
         "updated": "2025-08-08T09:06:08.296Z",
-        "searchScore": 2.63701,
+        "searchScore": 2.7061195,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -198,7 +198,7 @@
           }
         },
         "score": {
-          "final": 2.63701,
+          "final": 2.7061195,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -211,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 5879
+    "packageDownloadsTotal": 5909
   }
 }
