@@ -8,7 +8,7 @@
         },
         "dependents": "1",
         "updated": "2025-08-14T04:26:08.771Z",
-        "searchScore": 42.096268,
+        "searchScore": 42.244583,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 42.096268,
+          "final": 42.244583,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -55,12 +55,12 @@
       },
       {
         "downloads": {
-          "monthly": 6,
+          "monthly": 4,
           "weekly": 1
         },
         "dependents": 0,
-        "updated": "2025-08-10T12:06:14.178Z",
-        "searchScore": 9.416208,
+        "updated": "2025-08-17T12:11:09.004Z",
+        "searchScore": 7.1861105,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -92,7 +92,7 @@
           }
         },
         "score": {
-          "final": 9.416208,
+          "final": 7.1861105,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -105,12 +105,12 @@
       },
       {
         "downloads": {
-          "monthly": 3,
+          "monthly": 2,
           "weekly": 0
         },
         "dependents": 0,
-        "updated": "2025-08-09T16:16:11.180Z",
-        "searchScore": 6.3164515,
+        "updated": "2025-08-16T16:21:06.824Z",
+        "searchScore": 4.6022143,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -144,7 +144,7 @@
           }
         },
         "score": {
-          "final": 6.3164515,
+          "final": 4.6022143,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -211,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 5976
+    "packageDownloadsTotal": 5979
   }
 }
