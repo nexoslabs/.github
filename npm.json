@@ -8,7 +8,7 @@
         },
         "dependents": "1",
         "updated": "2025-08-14T04:26:08.771Z",
-        "searchScore": 42.244583,
+        "searchScore": 42.557354,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 42.244583,
+          "final": 42.557354,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -60,7 +60,7 @@
         },
         "dependents": 0,
         "updated": "2025-08-17T12:11:09.004Z",
-        "searchScore": 7.1861105,
+        "searchScore": 7.2455153,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -92,7 +92,7 @@
           }
         },
         "score": {
-          "final": 7.1861105,
+          "final": 7.2455153,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -110,7 +110,7 @@
         },
         "dependents": 0,
         "updated": "2025-08-16T16:21:06.824Z",
-        "searchScore": 4.6022143,
+        "searchScore": 4.6012163,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -144,7 +144,7 @@
           }
         },
         "score": {
-          "final": 4.6022143,
+          "final": 4.6012163,
           "detail": {
             "popularity": 1,
             "quality": 1,
