@@ -3,12 +3,12 @@
     "packages": [
       {
         "downloads": {
-          "monthly": 1049,
-          "weekly": 300
+          "monthly": 992,
+          "weekly": 165
         },
         "dependents": "1",
-        "updated": "2025-08-14T04:26:08.771Z",
-        "searchScore": 43.66515,
+        "updated": "2025-08-21T04:31:08.594Z",
+        "searchScore": 39.143562,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 43.66515,
+          "final": 39.143562,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -60,7 +60,7 @@
         },
         "dependents": 0,
         "updated": "2025-08-17T12:11:09.004Z",
-        "searchScore": 7.284489,
+        "searchScore": 7.398676,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -92,7 +92,7 @@
           }
         },
         "score": {
-          "final": 7.284489,
+          "final": 7.398676,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -110,7 +110,7 @@
         },
         "dependents": 0,
         "updated": "2025-08-16T16:21:06.824Z",
-        "searchScore": 4.65998,
+        "searchScore": 4.718482,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -144,7 +144,7 @@
           }
         },
         "score": {
-          "final": 4.65998,
+          "final": 4.718482,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -211,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 6045
+    "packageDownloadsTotal": 6116
   }
 }
