@@ -8,7 +8,7 @@
         },
         "dependents": "1",
         "updated": "2025-08-21T04:31:08.594Z",
-        "searchScore": 39.99298,
+        "searchScore": 40.300674,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 39.99298,
+          "final": 40.300674,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -60,7 +60,7 @@
         },
         "dependents": 0,
         "updated": "2025-08-17T12:11:09.004Z",
-        "searchScore": 7.4195895,
+        "searchScore": 7.487732,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -92,7 +92,7 @@
           }
         },
         "score": {
-          "final": 7.4195895,
+          "final": 7.487732,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -110,7 +110,7 @@
         },
         "dependents": 0,
         "updated": "2025-08-16T16:21:06.824Z",
-        "searchScore": 4.7111363,
+        "searchScore": 4.749225,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -144,7 +144,7 @@
           }
         },
         "score": {
-          "final": 4.7111363,
+          "final": 4.749225,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -211,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 6163
+    "packageDownloadsTotal": 6201
   }
 }
