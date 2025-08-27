@@ -8,7 +8,7 @@
         },
         "dependents": "1",
         "updated": "2025-08-21T04:31:08.594Z",
-        "searchScore": 40.83922,
+        "searchScore": 40.193863,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 40.83922,
+          "final": 40.193863,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -60,7 +60,7 @@
         },
         "dependents": 0,
         "updated": "2025-08-24T12:16:09.870Z",
-        "searchScore": 7.3277493,
+        "searchScore": 7.234591,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -92,7 +92,7 @@
           }
         },
         "score": {
-          "final": 7.3277493,
+          "final": 7.234591,
           "detail": {
             "popularity": 1,
             "quality": 1,
