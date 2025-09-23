@@ -1,6 +1,6 @@
-# 🤝 Contributing to Nexos Creation
+# 🤝 Contributing to Nexos Labs
 
-🚀 Thank you for considering contributing to Nexos Creation! We appreciate your help in improving and expanding this project. Please read the following guidelines carefully to ensure a smooth contribution process.
+🚀 Thank you for considering contributing to Nexos Labs! We appreciate your help in improving and expanding this project. Please read the following guidelines carefully to ensure a smooth contribution process.
 
 ## 🛠 How to Contribute
 
@@ -13,7 +13,7 @@ Click the **"Fork"** button on the top right corner of the repository page. This
 Clone your forked repository to your local machine:
 
 ```bash
-git clone https://github.com/nexoscreation/.github.git
+git clone https://github.com/nexoslabs/.github.git
 cd .github
 ```
 
@@ -107,10 +107,10 @@ By participating, you agree to follow our [Code of Conduct](./.github/CODE_OF_CO
 If you have any questions or need help, feel free to:
 
 - **Join our Discord community:** [Click Here](https://discord.gg/H7pVc9aUK2)
-- **Reach out on Twitter:** [@nexoscreation](https://twitter.com/nexoscreation)
+- **Reach out on Twitter:** [@nexoslabs](https://twitter.com/nexoslabs)
 
 ---
 
 ## ❤️ Thank You for Your Contribution!
 
-Your contributions make Nexos Creation better for everyone! 🚀
+Your contributions make Nexos Labs better for everyone! 🚀

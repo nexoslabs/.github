@@ -1,4 +1,4 @@
-# Changelog for Nexos Creation v1.0.0
+# Changelog for Nexos Labs v1.0.0
 
 ## [v1.0.0] - 2024-12-20
 

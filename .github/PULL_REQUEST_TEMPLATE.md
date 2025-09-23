@@ -63,4 +63,4 @@ Closes #`<issue-number>`
 
 ---
 
-💖 **Thank you for contributing to Nexos Creation!** 🚀
+💖 **Thank you for contributing to Nexos Labs!** 🚀

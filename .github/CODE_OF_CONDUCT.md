@@ -1,6 +1,6 @@
 # 📜 Code of Conduct
 
-## 👋 Welcome to Nexos Creation!
+## 👋 Welcome to Nexos Labs!
 
 We are committed to fostering a **welcoming, inclusive, and respectful** environment for everyone. This Code of Conduct outlines our expectations for participants in our community.
 
@@ -52,7 +52,7 @@ All decisions regarding enforcement **are final** and made at the discretion of 
 If you **experience or witness** behavior that violates this Code of Conduct:
 
 📩 **Email us at**: [contact@nexoscreation.tech](mailto:contact@nexoscreation.tech)  
-📝 **Create an issue** (if appropriate): [GitHub Issues](https://github.com/nexoscreation/.github/issues)  
+📝 **Create an issue** (if appropriate): [GitHub Issues](https://github.com/nexoslabs/.github/issues)  
 💬 **Join our Discord & Report**: [Join Here](https://discord.gg/H7pVc9aUK2)
 
 All reports will be handled **confidentially**.
@@ -66,7 +66,7 @@ This Code of Conduct applies **to all community spaces**, including:
 - GitHub (issues, pull requests, discussions)
 - Discord servers
 - Social media interactions
-- Any other platforms related to Nexos Creation
+- Any other platforms related to Nexos Labs
 
 By **participating in this project**, you agree to follow this Code of Conduct.
 
@@ -80,4 +80,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ## 💖 Thank You!
 
-We appreciate your commitment to making Nexos Creation a great and inclusive place! 🚀
+We appreciate your commitment to making Nexos Labs a great and inclusive place! 🚀

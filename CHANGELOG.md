@@ -23,7 +23,7 @@ This project follows **[Semantic Versioning](https://semver.org/)**:
 
 ## 📜 Previous Releases
 
-- **[Version 1.0.0](https://github.com/nexoscreation/.github/releases/tag/v1.0.0)**
+- **[Version 1.0.0](https://github.com/nexoslabs/.github/releases/tag/v1.0.0)**
 
 ---
 

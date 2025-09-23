@@ -1,6 +1,6 @@
-# 🛠️ Support Guide for Nexos Creation
+# 🛠️ Support Guide for Nexos Labs
 
-Thank you for using **Nexos Creation**! 🎉 If you need help, here’s how you can find support.
+Thank you for using **Nexos Labs**! 🎉 If you need help, here’s how you can find support.
 
 ---
 
@@ -9,23 +9,23 @@ Thank you for using **Nexos Creation**! 🎉 If you need help, here’s how you 
 ### 📖 1. Check the Documentation
 
 Before opening a support request, please read our official documentation:  
-📖 **[Documentation](https://github.com/nexoscreation/.github/wiki)**
+📖 **[Documentation](https://github.com/nexoslabs/.github/wiki)**
 
 ---
 
 ### 🐞 2. Report a Bug
 
 If you believe you've found a **bug**, check the existing issues first:  
-🔍 **[GitHub Issues](https://github.com/nexoscreation/.github/issues)**
+🔍 **[GitHub Issues](https://github.com/nexoslabs/.github/issues)**
 
-If no similar issue exists, please report it using our **[Bug Report Template](https://github.com/nexoscreation/.github/issues/new?template=bug_report.md)**.
+If no similar issue exists, please report it using our **[Bug Report Template](https://github.com/nexoslabs/.github/issues/new?template=bug_report.md)**.
 
 ---
 
 ### 🚀 3. Request a Feature
 
 Have an idea for a **new feature**? We’d love to hear it!  
-📌 **Submit your request**: [Feature Requests](https://github.com/nexoscreation/.github/issues/new?template=feature_request.md)
+📌 **Submit your request**: [Feature Requests](https://github.com/nexoslabs/.github/issues/new?template=feature_request.md)
 
 ---
 
@@ -34,7 +34,7 @@ Have an idea for a **new feature**? We’d love to hear it!
 For general questions, discussions, or networking, join our community:
 
 💬 **Discord**: [Join Here](https://discord.gg/H7pVc9aUK2)  
-🐦 **Twitter**: [@nexoscreation](https://twitter.com/nexoscreation)
+🐦 **Twitter**: [@nexoslabs](https://twitter.com/nexoslabs)
 
 ---
 
@@ -54,4 +54,4 @@ You can support the project in many ways:
 
 ---
 
-💖 **Thank you for being part of Nexos Creation!** 🚀
+💖 **Thank you for being part of Nexos Labs!** 🚀

@@ -2,7 +2,7 @@
 
 ## 📌 Supported Versions
 
-We actively maintain and support the following versions of Nexos Creation:
+We actively maintain and support the following versions of Nexos Labs:
 
 | Version        | Supported            |
 | -------------- | -------------------- |
@@ -15,7 +15,7 @@ If you are using an **older version**, we recommend **upgrading** to the latest 
 
 ## 🚨 Reporting a Vulnerability
 
-If you discover a **security issue** in Nexos Creation, please **DO NOT** report it publicly. Instead, follow these steps:
+If you discover a **security issue** in Nexos Labs, please **DO NOT** report it publicly. Instead, follow these steps:
 
 ### 📩 1. Contact Us Privately
 
@@ -65,8 +65,8 @@ We appreciate those who report security vulnerabilities **responsibly**. If you 
 For general security-related questions, feel free to:
 
 - Join our **Discord**: [Click Here](https://discord.gg/H7pVc9aUK2)
-- Open a **GitHub Discussion**: [Discussions](https://github.com/nexoscreation/.github/discussions)
+- Open a **GitHub Discussion**: [Discussions](https://github.com/nexoslabs/.github/discussions)
 
 ---
 
-💖 **Thank you for helping keep Nexos Creation secure!** 🚀
+💖 **Thank you for helping keep Nexos Labs secure!** 🚀

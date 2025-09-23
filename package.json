@@ -1,13 +1,13 @@
 {
-  "name": "nexoscreation",
+  "name": "nexoslabs",
   "version": "0.2.3",
   "main": "scripts/index.js",
-  "repository": "git@github.com:nexoscreation/.github.git",
+  "repository": "git@github.com:nexoslabs/.github.git",
   "author": "nexospro",
   "license": "UNLICENSED",
   "type": "module",
   "config": {
-    "githubUID": "nexoscreation",
+    "githubUID": "nexoslabs",
     "npmUID": "nexoscreator"
   },
   "nodemonConfig": {
