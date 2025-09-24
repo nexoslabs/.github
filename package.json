@@ -3,7 +3,7 @@
   "version": "0.2.3",
   "main": "scripts/index.js",
   "repository": "git@github.com:nexoslabs/.github.git",
-  "author": "nexospro",
+  "author": "Nexos Labs",
   "license": "UNLICENSED",
   "type": "module",
   "config": {
