@@ -105,7 +105,7 @@
         "deployments_url": "https://api.github.com/repos/nexoslabs/.github/deployments",
         "created_at": "2024-07-05T03:59:10Z",
         "updated_at": "2025-09-24T11:18:27Z",
-        "pushed_at": "2025-11-05T13:08:12Z",
+        "pushed_at": "2025-11-06T13:07:52Z",
         "git_url": "git://github.com/nexoslabs/.github.git",
         "ssh_url": "git@github.com:nexoslabs/.github.git",
         "clone_url": "https://github.com/nexoslabs/.github.git",
@@ -1208,14 +1208,14 @@
         "releases_url": "https://api.github.com/repos/nexoslabs/nuxt-google-translate/releases{/id}",
         "deployments_url": "https://api.github.com/repos/nexoslabs/nuxt-google-translate/deployments",
         "created_at": "2025-01-25T19:32:16Z",
-        "updated_at": "2025-09-24T10:05:38Z",
-        "pushed_at": "2025-09-24T10:05:34Z",
+        "updated_at": "2025-11-07T09:12:34Z",
+        "pushed_at": "2025-11-07T09:05:26Z",
         "git_url": "git://github.com/nexoslabs/nuxt-google-translate.git",
         "ssh_url": "git@github.com:nexoslabs/nuxt-google-translate.git",
         "clone_url": "https://github.com/nexoslabs/nuxt-google-translate.git",
         "svn_url": "https://github.com/nexoslabs/nuxt-google-translate",
         "homepage": "https://nuxt-google-translate.vercel.app",
-        "size": 930,
+        "size": 1068,
         "stargazers_count": 4,
         "watchers_count": 4,
         "language": "Vue",
@@ -1229,7 +1229,7 @@
         "mirror_url": null,
         "archived": false,
         "disabled": false,
-        "open_issues_count": 2,
+        "open_issues_count": 1,
         "license": {
           "key": "mit",
           "name": "MIT License",
@@ -1250,7 +1250,7 @@
         ],
         "visibility": "public",
         "forks": 1,
-        "open_issues": 2,
+        "open_issues": 1,
         "watchers": 4,
         "default_branch": "main"
       },
@@ -1591,7 +1591,7 @@
     "statistics": {
       "stars": 50,
       "forks": 26,
-      "open_issues": 4
+      "open_issues": 3
     }
   }
 }
