@@ -8,7 +8,7 @@
         },
         "dependents": "1",
         "updated": "2026-01-02T09:31:10.179Z",
-        "searchScore": 42.759697,
+        "searchScore": 42.81888,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 42.759697,
+          "final": 42.81888,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -60,7 +60,7 @@
         },
         "dependents": 0,
         "updated": "2026-01-03T18:01:08.181Z",
-        "searchScore": 12.838997,
+        "searchScore": 12.764004,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -94,7 +94,7 @@
           }
         },
         "score": {
-          "final": 12.838997,
+          "final": 12.764004,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -112,7 +112,7 @@
         },
         "dependents": 0,
         "updated": "2026-01-04T13:51:07.697Z",
-        "searchScore": 10.577102,
+        "searchScore": 10.705736,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -144,7 +144,7 @@
           }
         },
         "score": {
-          "final": 10.577102,
+          "final": 10.705736,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -162,7 +162,7 @@
         },
         "dependents": 0,
         "updated": "2026-01-02T10:51:06.754Z",
-        "searchScore": 8.241718,
+        "searchScore": 8.349596,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -198,7 +198,7 @@
           }
         },
         "score": {
-          "final": 8.241718,
+          "final": 8.349596,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -211,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 11543
+    "packageDownloadsTotal": 11576
   }
 }
