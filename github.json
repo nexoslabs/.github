@@ -105,13 +105,13 @@
         "deployments_url": "https://api.github.com/repos/nexoslabs/.github/deployments",
         "created_at": "2024-07-05T03:59:10Z",
         "updated_at": "2025-09-24T11:18:27Z",
-        "pushed_at": "2026-02-12T13:50:09Z",
+        "pushed_at": "2026-02-13T13:42:45Z",
         "git_url": "git://github.com/nexoslabs/.github.git",
         "ssh_url": "git@github.com:nexoslabs/.github.git",
         "clone_url": "https://github.com/nexoslabs/.github.git",
         "svn_url": "https://github.com/nexoslabs/.github",
         "homepage": "https://www.nexoscreation.tech",
-        "size": 94030,
+        "size": 94031,
         "stargazers_count": 0,
         "watchers_count": 0,
         "language": "JavaScript",
@@ -136,6 +136,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "community",
           "nexoscreation",
@@ -242,6 +244,8 @@
         "allow_forking": true,
         "is_template": true,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "bot",
           "discord-bot",
@@ -354,6 +358,8 @@
         "allow_forking": true,
         "is_template": true,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "bot",
           "github-bot",
@@ -460,6 +466,8 @@
         "allow_forking": true,
         "is_template": true,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "bot",
           "nodejs",
@@ -566,6 +574,8 @@
         "allow_forking": true,
         "is_template": true,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "bot",
           "livestream-bot",
@@ -678,6 +688,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "always-online",
           "discord",
@@ -792,6 +804,8 @@
         "allow_forking": true,
         "is_template": true,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "2fa",
           "authentication",
@@ -901,6 +915,8 @@
         "allow_forking": true,
         "is_template": true,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "css3",
           "modern-ui",
@@ -1013,6 +1029,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "buttons",
           "feturastic",
@@ -1127,6 +1145,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "automation",
           "indexnow",
@@ -1240,6 +1260,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "google-translate",
           "language-switcher",
@@ -1354,6 +1376,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "os",
           "termux",
@@ -1460,6 +1484,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "nuxt-3",
           "og-image-generator",
@@ -1572,6 +1598,8 @@
         "allow_forking": true,
         "is_template": false,
         "web_commit_signoff_required": false,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
         "topics": [
           "bash",
           "linux",
