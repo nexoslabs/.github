@@ -8,7 +8,7 @@
         },
         "dependents": "1",
         "updated": "2026-02-13T10:01:08.501Z",
-        "searchScore": 42.415688,
+        "searchScore": 42.619987,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 42.415688,
+          "final": 42.619987,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -60,7 +60,7 @@
         },
         "dependents": 0,
         "updated": "2026-02-08T14:16:07.762Z",
-        "searchScore": 11.610156,
+        "searchScore": 11.539713,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -92,7 +92,7 @@
           }
         },
         "score": {
-          "final": 11.610156,
+          "final": 11.539713,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -109,8 +109,8 @@
           "weekly": 1
         },
         "dependents": 0,
-        "updated": "2026-02-07T18:26:08.486Z",
-        "searchScore": 8.6701975,
+        "updated": "2026-02-14T18:31:07.225Z",
+        "searchScore": 8.298896,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -144,7 +144,7 @@
           }
         },
         "score": {
-          "final": 8.6701975,
+          "final": 8.298896,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -162,7 +162,7 @@
         },
         "dependents": 0,
         "updated": "2026-02-13T11:21:06.753Z",
-        "searchScore": 8.2127,
+        "searchScore": 8.232347,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -198,7 +198,7 @@
           }
         },
         "score": {
-          "final": 8.2127,
+          "final": 8.232347,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -211,6 +211,6 @@
       }
     ],
     "packageCount": 4,
-    "packageDownloadsTotal": 13261
+    "packageDownloadsTotal": 13268
   }
 }
