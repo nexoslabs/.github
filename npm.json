@@ -3,12 +3,12 @@
     "packages": [
       {
         "downloads": {
-          "monthly": 1327,
-          "weekly": 257
+          "monthly": 1136,
+          "weekly": 168
         },
         "dependents": "1",
-        "updated": "2026-02-13T10:01:08.501Z",
-        "searchScore": 43.13633,
+        "updated": "2026-02-20T10:06:11.034Z",
+        "searchScore": 40.815624,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 43.13633,
+          "final": 40.815624,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -60,7 +60,7 @@
         },
         "dependents": 0,
         "updated": "2026-02-15T14:21:08.273Z",
-        "searchScore": 14.415632,
+        "searchScore": 14.5560255,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -92,7 +92,7 @@
           }
         },
         "score": {
-          "final": 14.415632,
+          "final": 14.5560255,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -110,7 +110,7 @@
         },
         "dependents": 0,
         "updated": "2026-02-14T18:31:07.225Z",
-        "searchScore": 8.483134,
+        "searchScore": 8.534932,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -144,7 +144,7 @@
           }
         },
         "score": {
-          "final": 8.483134,
+          "final": 8.534932,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -158,11 +158,11 @@
       {
         "downloads": {
           "monthly": 5,
-          "weekly": 3
+          "weekly": 1
         },
         "dependents": 0,
-        "updated": "2026-02-13T11:21:06.753Z",
-        "searchScore": 8.361273,
+        "updated": "2026-02-20T11:26:11.828Z",
+        "searchScore": 8.107895,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -198,7 +198,7 @@
           }
         },
         "score": {
-          "final": 8.361273,
+          "final": 8.107895,
           "detail": {
             "popularity": 1,
             "quality": 1,
