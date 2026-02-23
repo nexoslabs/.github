@@ -8,7 +8,7 @@
         },
         "dependents": "1",
         "updated": "2026-02-20T10:06:11.034Z",
-        "searchScore": 41.00581,
+        "searchScore": 41.437572,
         "package": {
           "name": "nuxt-google-translate",
           "keywords": [
@@ -42,7 +42,7 @@
           }
         },
         "score": {
-          "final": 41.00581,
+          "final": 41.437572,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -55,12 +55,12 @@
       },
       {
         "downloads": {
-          "monthly": 15,
-          "weekly": 7
+          "monthly": 17,
+          "weekly": 6
         },
         "dependents": 0,
-        "updated": "2026-02-15T14:21:08.273Z",
-        "searchScore": 14.590363,
+        "updated": "2026-02-22T14:26:07.343Z",
+        "searchScore": 14.86432,
         "package": {
           "name": "lazy-youtube-player",
           "keywords": [
@@ -92,7 +92,7 @@
           }
         },
         "score": {
-          "final": 14.590363,
+          "final": 14.86432,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -110,7 +110,7 @@
         },
         "dependents": 0,
         "updated": "2026-02-21T18:36:06.966Z",
-        "searchScore": 9.136587,
+        "searchScore": 9.194894,
         "package": {
           "name": "termuxpert",
           "keywords": [
@@ -144,7 +144,7 @@
           }
         },
         "score": {
-          "final": 9.136587,
+          "final": 9.194894,
           "detail": {
             "popularity": 1,
             "quality": 1,
@@ -162,7 +162,7 @@
         },
         "dependents": 0,
         "updated": "2026-02-20T11:26:11.828Z",
-        "searchScore": 8.168737,
+        "searchScore": 8.248796,
         "package": {
           "name": "featurastic-ui-buttons",
           "keywords": [
@@ -198,7 +198,7 @@
           }
         },
         "score": {
-          "final": 8.168737,
+          "final": 8.248796,
           "detail": {
             "popularity": 1,
             "quality": 1,
